@@ -1,4 +1,4 @@
-# Geofeed generated 2026-02-01 02:14:53 
+# Geofeed generated 2026-02-02 02:15:02 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2955,8 +2955,8 @@
 2604:8e80::10:28:94:2/127,US,TX,Sanantonio
 2604:8e80::10:28:94:8/127,US,TX,Richmnrnbg
 2604:8e80::10:28:94:10/127,US,TX,Richmnrnbg
-2604:8e80::10:28:113:0/127,US,LA,Mansura
-2604:8e80::10:28:240:13/128,US,LA,Mansura
+2604:8e80::10:28:113:0/127,US,TX,Longview
+2604:8e80::10:28:240:13/128,US,TX,Longview
 2604:8e80::10:28:240:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:94/128,US,TX,Richmnrnbg
