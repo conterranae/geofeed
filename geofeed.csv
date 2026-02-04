@@ -1,4 +1,4 @@
-# Geofeed generated 2026-02-03 00:20:28 
+# Geofeed generated 2026-02-04 02:19:30 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2257,7 +2257,6 @@
 208.80.167.4/31,US,TX,Texarkana
 208.80.167.6/31,US,TX,Texarkana
 208.80.167.8/31,US,TX,Texarkana
-208.80.167.14/31,US,TX,Texarkana
 208.80.167.18/31,US,LA,Alexandria
 208.80.167.24/29,US,TX,Texarkana
 208.80.167.32/31,US,LA,Alexandria
@@ -2700,6 +2699,7 @@
 216.45.10.36/30,US,TX,El Paso
 216.45.10.40/31,US,TX,El Paso
 216.45.10.44/31,US,TX,El Paso
+216.45.10.46/31,US,TX,El Paso
 216.45.10.48/29,US,TX,El Paso
 216.45.10.152/29,US,TX,El Paso
 216.45.10.160/29,US,TX,El Paso
@@ -3011,6 +3011,7 @@
 216.45.20.188/31,US,LA,Lafayette
 216.45.20.190/31,US,LA,Lafayette
 216.45.20.192/31,US,LA,Lafayette
+216.45.20.194/31,US,LA,Lafayette
 216.45.20.196/31,US,LA,Lafayette
 216.45.20.198/31,US,LA,Lafayette
 216.45.20.200/31,US,LA,Lafayette
@@ -3019,6 +3020,7 @@
 216.45.20.206/31,US,LA,Lafayette
 216.45.20.208/29,US,LA,Lafayette
 216.45.20.216/31,US,LA,Lafayette
+216.45.20.218/31,US,LA,Lafayette
 216.45.20.220/30,US,LA,Lafayette
 216.45.20.224/30,US,LA,Lafayette
 216.45.20.230/31,US,LA,Lafayette
@@ -3333,14 +3335,13 @@
 216.45.26.94/31,US,TX,El Paso
 216.45.26.152/31,US,TX,El Paso
 216.45.26.154/31,US,TX,El Paso
+216.45.26.156/30,US,TX,El Paso
 216.45.27.0/24,US,NC,Charlotte
 216.45.27.0/31,US,NC,Charlotte
 216.45.27.8/31,US,NC,Charlotte
 216.45.27.16/31,US,NC,Charlotte
 216.45.27.18/31,US,NC,Charlotte
 216.45.27.24/29,US,NC,Charlotte
-216.45.27.36/31,US,NC,Charlotte
-216.45.27.38/31,US,NC,Charlotte
 216.45.27.42/31,US,NC,Charlotte
 216.45.27.46/31,US,NC,Charlotte
 216.45.27.48/28,US,NC,Charlotte
@@ -3350,7 +3351,10 @@
 216.45.27.78/31,US,NC,Charlotte
 216.45.27.80/31,US,NC,Charlotte
 216.45.27.82/31,US,NC,Charlotte
+216.45.27.90/31,US,NC,Charlotte
+216.45.27.92/30,US,NC,Charlotte
 216.45.28.0/24,US,LA,Shreveport
+216.45.28.2/31,US,LA,Shreveport
 216.45.28.4/30,US,LA,Shreveport
 216.45.28.8/30,US,LA,Shreveport
 216.45.28.12/30,US,LA,Shreveport
@@ -3416,7 +3420,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,,
+2604:8e80::10:18:87:252/127,US,LA,Mansura
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:114:0/127,US,LA,Shreveport
@@ -3424,7 +3428,7 @@
 2604:8e80::10:18:114:4/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,,
+2604:8e80::10:18:240:87/128,US,LA,Mansura
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
