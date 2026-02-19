@@ -1,4 +1,4 @@
-# Geofeed generated 2026-02-18 02:19:32 
+# Geofeed generated 2026-02-19 02:19:33 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -142,6 +142,7 @@
 24.204.38.0/24,US,TX,Longview
 24.204.39.0/24,US,TX,Longview
 24.204.39.48/28,US,TX,Longview
+24.204.39.64/27,US,TX,Longview
 24.204.39.104/30,US,TX,Longview
 24.204.39.124/30,US,TX,Longview
 24.204.39.140/30,US,TX,Longview
@@ -3302,6 +3303,7 @@
 216.45.24.242/31,US,LA,Shreveport
 216.45.24.244/30,US,LA,Shreveport
 216.45.24.248/31,US,LA,Shreveport
+216.45.24.250/31,US,LA,Shreveport
 216.45.24.252/30,US,LA,Shreveport
 216.45.25.0/24,US,LA,Lafayette
 216.45.25.0/31,US,LA,Lafayette
@@ -3358,6 +3360,8 @@
 216.45.25.180/31,US,LA,Lafayette
 216.45.25.182/31,US,LA,Lafayette
 216.45.25.188/30,US,LA,Lafayette
+216.45.25.192/31,US,LA,Lafayette
+216.45.25.194/31,US,LA,Lafayette
 216.45.26.0/24,US,TX,Vinton
 216.45.26.0/29,US,TX,El Paso
 216.45.26.8/29,US,TX,El Paso
@@ -3396,6 +3400,7 @@
 216.45.27.42/31,US,NC,Charlotte
 216.45.27.46/31,US,NC,Charlotte
 216.45.27.48/28,US,NC,Charlotte
+216.45.27.64/31,US,NC,Charlotte
 216.45.27.66/31,US,NC,Charlotte
 216.45.27.68/31,US,NC,Charlotte
 216.45.27.70/31,US,NC,Charlotte
@@ -3434,6 +3439,8 @@
 216.45.28.80/31,US,LA,Shreveport
 216.45.28.82/31,US,LA,Shreveport
 216.45.28.84/31,US,LA,Shreveport
+216.45.28.86/31,US,LA,Shreveport
+216.45.28.88/31,US,LA,Shreveport
 216.45.28.90/31,US,LA,Shreveport
 216.45.28.144/29,US,LA,Shreveport
 216.45.28.152/29,US,LA,Shreveport
@@ -3501,7 +3508,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,,
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:114:0/127,US,LA,Shreveport
@@ -3509,7 +3516,7 @@
 2604:8e80::10:18:114:4/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,,
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
