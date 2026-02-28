@@ -1,4 +1,4 @@
-# Geofeed generated 2026-02-27 00:20:31 
+# Geofeed generated 2026-02-28 02:19:40 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -3369,6 +3369,8 @@
 216.45.25.174/31,US,LA,Lafayette
 216.45.25.180/31,US,LA,Lafayette
 216.45.25.182/31,US,LA,Lafayette
+216.45.25.184/31,US,LA,Lafayette
+216.45.25.186/31,US,LA,Lafayette
 216.45.25.188/30,US,LA,Lafayette
 216.45.25.192/31,US,LA,Lafayette
 216.45.25.194/31,US,LA,Lafayette
@@ -3417,6 +3419,7 @@
 216.45.27.24/29,US,NC,Charlotte
 216.45.27.32/31,US,NC,Charlotte
 216.45.27.34/31,US,NC,Charlotte
+216.45.27.36/31,US,NC,Charlotte
 216.45.27.38/31,US,NC,Granitefls
 216.45.27.42/31,US,NC,Charlotte
 216.45.27.44/31,US,NC,Charlotte
@@ -3432,6 +3435,7 @@
 216.45.27.80/31,US,NC,Charlotte
 216.45.27.82/31,US,NC,Charlotte
 216.45.27.84/31,US,NC,Charlotte
+216.45.27.86/31,US,NC,Charlotte
 216.45.27.88/31,US,NC,Charlotte
 216.45.27.90/31,US,NC,Charlotte
 216.45.27.92/30,US,NC,Charlotte
