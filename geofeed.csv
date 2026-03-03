@@ -1,4 +1,4 @@
-# Geofeed generated 2026-03-02 00:20:29 
+# Geofeed generated 2026-03-03 02:19:36 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2324,6 +2324,8 @@
 216.45.0.80/31,US,TX,Longview
 216.45.0.82/31,US,TX,Longview
 216.45.0.84/31,US,TX,Longview
+216.45.0.86/31,US,TX,Longview
+216.45.0.88/31,US,TX,Longview
 216.45.0.96/29,US,TX,Dallas
 216.45.0.104/29,US,LA,Opelousas
 216.45.0.112/30,US,TX,Longview
@@ -2470,6 +2472,7 @@
 216.45.5.136/29,US,NC,Charlotte
 216.45.5.144/28,US,NC,Charlotte
 216.45.5.160/31,US,NC,Charlotte
+216.45.5.162/31,US,NC,Charlotte
 216.45.5.164/31,US,NC,Charlotte
 216.45.5.166/31,US,NC,Charlotte
 216.45.5.168/29,US,NC,Charlotte
@@ -2681,6 +2684,7 @@
 216.45.9.148/31,US,TX,Dallas
 216.45.9.150/31,US,TX,Dallas
 216.45.9.152/30,US,TX,Dallas
+216.45.9.158/31,US,TX,Dallas
 216.45.9.160/29,US,TX,Dallas
 216.45.9.168/29,US,TX,Dallas
 216.45.9.176/29,US,TX,El Paso
@@ -3167,6 +3171,8 @@
 216.45.22.198/31,US,TX,Dallas
 216.45.22.200/31,US,TX,Dallas
 216.45.22.202/31,US,TX,Dallas
+216.45.22.210/31,US,TX,Dallas
+216.45.22.214/31,US,TX,Dallas
 216.45.22.216/30,US,TX,Brownwood
 216.45.22.232/31,US,TX,Longview
 216.45.22.234/31,US,TX,Longview
@@ -3477,15 +3483,19 @@
 216.45.28.100/31,US,LA,Shreveport
 216.45.28.102/31,US,LA,Shreveport
 216.45.28.104/29,US,LA,Shreveport
+216.45.28.112/31,US,LA,Shreveport
 216.45.28.120/31,US,LA,Shreveport
 216.45.28.122/31,US,LA,Shreveport
 216.45.28.124/31,US,LA,Shreveport
 216.45.28.126/31,US,LA,Shreveport
+216.45.28.128/28,US,LA,Shreveport
 216.45.28.144/29,US,LA,Shreveport
 216.45.28.152/29,US,LA,Shreveport
 216.45.28.160/29,US,LA,Shreveport
 216.45.28.168/31,US,LA,Shreveport
 216.45.28.170/31,US,LA,Shreveport
+216.45.28.172/31,US,LA,Shreveport
+216.45.28.174/31,US,LA,Shreveport
 216.45.28.224/29,US,LA,Shreveport
 216.45.29.0/24,US,TX,Longview
 216.45.29.2/31,US,TX,Longview
@@ -3553,7 +3563,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,,
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -3563,7 +3573,7 @@
 2604:8e80::10:18:114:10/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,,
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
