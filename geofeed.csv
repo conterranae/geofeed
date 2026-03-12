@@ -1,4 +1,4 @@
-# Geofeed generated 2026-03-11 00:20:44 
+# Geofeed generated 2026-03-12 02:19:55 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -703,7 +703,6 @@
 69.63.162.224/30,US,LA,Lafayette
 69.63.162.228/31,US,LA,Hammond
 69.63.162.230/31,US,LA,Shreveport
-69.63.162.232/29,US,LA,New Roads
 69.63.162.240/29,US,TX,El Paso
 69.63.162.248/29,US,LA,New Roads
 69.63.163.0/24,US,LA,Batonrouge
@@ -1440,6 +1439,7 @@
 139.180.49.112/28,US,NC,Moreheadcy
 139.180.49.128/27,US,NC,Granitefls
 139.180.49.160/28,US,NC,Moreheadcy
+139.180.49.176/28,US,NC,Smithfield
 139.180.49.192/28,US,NC,Monroe
 139.180.49.208/29,US,NC,Granitefls
 139.180.49.220/31,US,NC,Statesvl
@@ -1929,6 +1929,7 @@
 199.83.227.100/31,US,NC,Claremont
 199.83.227.104/29,US,NC,Randleman
 199.83.227.112/29,US,NC,Charlotte
+199.83.227.120/30,US,NC,Smithfield
 199.83.227.124/31,US,NC,Claremont
 199.83.227.126/31,US,NC,Granitefls
 199.83.227.128/26,US,NC,Moreheadcy
@@ -2094,6 +2095,7 @@
 208.77.170.72/29,US,NC,Morganton
 208.77.170.80/29,US,NC,Granitefls
 208.77.170.88/29,US,NC,Granitefls
+208.77.170.96/28,US,NC,Smithfield
 208.77.170.112/31,US,NC,Charlotte
 208.77.170.114/31,US,NC,Charlotte
 208.77.170.116/30,US,NC,Durham
@@ -2384,6 +2386,7 @@
 216.45.2.32/29,US,NC,Granitefls
 216.45.2.40/30,US,NC,Conover
 216.45.2.46/31,US,NC,Charlotte
+216.45.2.48/30,US,NC,Smithfield
 216.45.2.52/30,US,NC,Granitefls
 216.45.2.56/30,US,NC,Charlotte
 216.45.2.60/30,US,NC,Monroe
@@ -2552,7 +2555,6 @@
 216.45.7.88/31,US,LA,Bunkie
 216.45.7.90/31,US,LA,Bunkie
 216.45.7.92/31,US,LA,Bunkie
-216.45.7.94/31,US,LA,Bunkie
 216.45.7.112/31,US,LA,Bunkie
 216.45.7.114/31,US,LA,Shreveport
 216.45.7.116/31,US,LA,Lafayette
@@ -3426,8 +3428,8 @@
 216.45.26.188/30,US,TX,El Paso
 216.45.26.192/31,US,TX,Vinton
 216.45.27.0/24,US,NC,Charlotte
-216.45.27.0/31,US,NC,Charlotte
-216.45.27.8/31,US,NC,Charlotte
+216.45.27.0/29,US,NC,Charlotte
+216.45.27.8/29,US,NC,Charlotte
 216.45.27.16/31,US,NC,Charlotte
 216.45.27.18/31,US,NC,Charlotte
 216.45.27.22/31,US,NC,Charlotte
@@ -3456,9 +3458,11 @@
 216.45.27.92/30,US,NC,Charlotte
 216.45.27.96/29,US,NC,Charlotte
 216.45.27.106/31,US,NC,Charlotte
+216.45.27.108/31,US,NC,Charlotte
 216.45.27.120/30,US,NC,Charlotte
 216.45.27.128/28,US,NC,Charlotte
 216.45.27.144/29,US,NC,Charlotte
+216.45.27.160/28,US,NC,Charlotte
 216.45.28.0/24,US,LA,Shreveport
 216.45.28.0/31,US,LA,Shreveport
 216.45.28.2/31,US,LA,Shreveport
@@ -3699,6 +3703,7 @@
 2604:8e80:3400::c/127,US,TX,El Paso
 2604:8e80:3500::4/127,US,LA,Lafayette
 2604:8e80:3600::/126,US,LA,Shreveport
+2604:8e80:3600::/127,US,TX,Longview
 2606:8380::/48,US,TX,Longview
 2620:0:1cff:dead:beee::1102/127,US,TX,Dallas
 2620:0:1cff:dead:beee::24f0/127,US,TX,Dallas
