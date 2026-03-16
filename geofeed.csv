@@ -1,4 +1,4 @@
-# Geofeed generated 2026-03-16 02:19:48 
+# Geofeed generated 2026-03-16 00:20:51 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1906,6 +1906,7 @@
 199.83.226.128/27,US,LA,Ruston
 199.83.226.162/31,US,TX,El Paso
 199.83.226.164/30,US,TX,El Paso
+199.83.226.168/29,US,LA,Baldwin
 199.83.226.176/28,US,LA,Franklin
 199.83.226.192/27,US,LA,Shreveport
 199.83.226.192/31,US,TX,Brownwood
