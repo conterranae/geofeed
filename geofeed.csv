@@ -1,4 +1,4 @@
-# Geofeed generated 2026-03-30 00:21:04 
+# Geofeed generated 2026-03-31 02:20:09 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2580,6 +2580,7 @@
 216.45.7.172/31,US,LA,Lafayette
 216.45.7.174/31,US,LA,Sulphur
 216.45.7.176/31,US,LA,Mamou
+216.45.7.178/31,US,LA,Bunkie
 216.45.7.186/31,US,LA,Lafayette
 216.45.7.188/31,US,LA,New Roads
 216.45.7.190/31,US,LA,Marksville
@@ -2754,6 +2755,8 @@
 216.45.11.216/29,US,TX,El Paso
 216.45.11.224/28,US,TX,El Paso
 216.45.11.240/29,US,TX,El Paso
+216.45.11.248/31,US,TX,El Paso
+216.45.11.252/31,US,TX,El Paso
 216.45.12.0/24,US,TX,El Paso
 216.45.13.0/24,US,TX,Vinton
 216.45.14.0/24,US,TX,Vinton
@@ -3476,6 +3479,7 @@
 216.45.26.212/31,US,TX,El Paso
 216.45.26.214/31,US,TX,El Paso
 216.45.26.224/31,US,TX,El Paso
+216.45.26.228/31,US,LA,Shreveport
 216.45.26.234/31,US,LA,Shreveport
 216.45.26.240/31,US,LA,Lafayette
 216.45.26.252/31,US,LA,Shreveport
