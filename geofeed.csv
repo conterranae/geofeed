@@ -1,4 +1,4 @@
-# Geofeed generated 2026-04-09 00:21:16 
+# Geofeed generated 2026-04-10 02:20:15 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -578,7 +578,7 @@
 38.114.240.138/31,US,NC,Clayton
 38.114.240.142/31,US,NC,Clayton
 38.114.240.144/31,US,NC,Dothan
-38.114.240.146/31,US,NC,Charlotte
+38.114.240.146/31,US,NC,Kannapolis
 38.114.240.148/30,US,NC,Conover
 38.114.240.148/31,US,NC,Kannapolis
 38.114.240.152/31,US,NC,Charlotte
@@ -2444,6 +2444,7 @@
 216.45.4.208/30,US,NC,Charlotte
 216.45.4.212/30,US,NC,Charlotte
 216.45.4.216/31,US,NC,Charlotte
+216.45.4.218/31,US,NC,Kannapolis
 216.45.4.224/29,US,NC,Kannapolis
 216.45.4.232/31,US,NC,Charlotte
 216.45.4.234/31,US,NC,Charlotte
@@ -3301,6 +3302,7 @@
 216.45.23.232/29,US,TX,Longview
 216.45.23.240/29,US,TX,Longview
 216.45.23.248/31,US,LA,Jena
+216.45.23.250/31,US,TX,Longview
 216.45.24.0/24,US,LA,Shreveport
 216.45.24.0/30,US,LA,Shreveport
 216.45.24.4/30,US,LA,Shreveport
@@ -3475,6 +3477,8 @@
 216.45.26.96/29,US,TX,El Paso
 216.45.26.104/29,US,TX,El Paso
 216.45.26.112/29,US,TX,El Paso
+216.45.26.120/31,US,TX,El Paso
+216.45.26.122/31,US,TX,El Paso
 216.45.26.126/31,US,TX,El Paso
 216.45.26.128/29,US,TX,El Paso
 216.45.26.136/31,US,TX,El Paso
@@ -3555,6 +3559,7 @@
 216.45.27.182/31,US,NC,Charlotte
 216.45.27.184/29,US,NC,Charlotte
 216.45.27.200/29,US,NC,Charlotte
+216.45.27.218/31,US,NC,Charlotte
 216.45.27.240/31,US,NC,Charlotte
 216.45.27.244/30,US,NC,Charlotte
 216.45.28.0/24,US,LA,Shreveport
@@ -3621,6 +3626,7 @@
 216.45.28.200/31,US,LA,Shreveport
 216.45.28.202/31,US,LA,Shreveport
 216.45.28.204/31,US,LA,Shreveport
+216.45.28.206/31,US,LA,Shreveport
 216.45.28.208/29,US,LA,Shreveport
 216.45.28.216/31,US,LA,Shreveport
 216.45.28.218/31,US,LA,Shreveport
@@ -3634,7 +3640,6 @@
 216.45.28.248/31,US,LA,Shreveport
 216.45.28.250/31,US,LA,Shreveport
 216.45.28.252/31,US,LA,Shreveport
-216.45.28.254/31,US,LA,Shreveport
 216.45.29.0/24,US,TX,Longview
 216.45.29.2/31,US,TX,Longview
 216.45.29.4/30,US,TX,Longview
@@ -3662,6 +3667,8 @@
 216.45.29.124/30,US,TX,Longview
 216.45.29.132/30,US,TX,Longview
 216.45.29.136/29,US,TX,Longview
+216.45.29.144/31,US,TX,Longview
+216.45.29.146/31,US,TX,Longview
 216.45.30.0/24,US,LA,Shreveport
 216.45.30.0/27,US,LA,Shreveport
 216.45.30.32/31,US,LA,Shreveport
@@ -3679,11 +3686,18 @@
 2001:504:0:5::/64,US,TX,Dallas
 2001:550:2:31::d2:0/112,US,TX,Dallas
 2001:550:2:42::e:0/112,US,TX,El Paso
+2001:550:2:6f::22:0/112,US,NC,Charlotte
 2001:4860:1:1::ff2/127,US,TX,Dallas
 2001:4860:1:1::1600/127,US,TX,Dallas
 2602:fcc9:777::/48,US,TX,Kilgore
 2602:fd58:1::/48,US,TX,Texarkana
 2604:8e80::/32,US,TX,Dallas
+2604:8e80::10:0:4:0/127,US,NC,Charlotte
+2604:8e80::10:12:0:4/127,US,NC,Charlotte
+2604:8e80::10:12:0:8/127,US,NC,Charlotte
+2604:8e80::10:12:0:12/127,US,NC,Charlotte
+2604:8e80::10:12:252:0/128,US,NC,Charlotte
+2604:8e80::10:12:254:0/128,US,NC,Charlotte
 2604:8e80::10:18:5:4/127,US,LA,Mamou
 2604:8e80::10:18:9:6/127,US,LA,Marksville
 2604:8e80::10:18:9:12/127,US,LA,Marksville
@@ -3813,6 +3827,7 @@
 2604:8e80:0:1::100/127,US,TX,Dallas
 2604:8e80:0:1::102/127,US,TX,El Paso
 2604:8e80:0:1::104/127,US,TX,El Paso
+2604:8e80:0:1::144/127,US,NC,Charlotte
 2604:8e80:0:1::156/127,US,TX,El Paso
 2604:8e80:0:1::160/126,US,TX,Kilgore
 2604:8e80:0:4::/64,US,,
@@ -3831,10 +3846,20 @@
 2604:8e80:3400::6/127,US,TX,El Paso
 2604:8e80:3400::a/127,US,TX,El Paso
 2604:8e80:3400::c/127,US,TX,El Paso
+2604:8e80:3500::/126,US,NC,Charlotte
 2604:8e80:3500::4/127,US,LA,Lafayette
 2604:8e80:3600::/126,US,LA,Shreveport
 2604:8e80:3600::/127,US,TX,Longview
 2606:8380::/48,US,TX,Longview
+2606:b980::/32,US,NC,Charlotte
+2606:b980:100::/127,US,NC,Charlotte
+2606:b980:100::2/127,US,NC,Charlotte
+2606:b980:100::4/127,US,NC,Charlotte
+2606:b980:100::8/125,US,NC,Charlotte
+2606:b980:100::10/127,US,NC,Charlotte
+2606:b980:100::12/127,US,NC,Charlotte
+2606:b980:100::14/126,US,NC,Charlotte
+2606:b980:800::/127,US,NC,Charlotte
 2620:0:1cff:dead:beee::1102/127,US,TX,Dallas
 2620:0:1cff:dead:beee::24f0/127,US,TX,Dallas
 2606:b980:1fe::/48,US,NC,Grifton
