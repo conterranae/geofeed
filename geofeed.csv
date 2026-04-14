@@ -1,4 +1,4 @@
-# Geofeed generated 2026-04-13 00:21:31 
+# Geofeed generated 2026-04-14 02:20:30 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -3400,6 +3400,7 @@
 216.45.25.84/31,US,LA,Lafayette
 216.45.25.86/31,US,LA,Lafayette
 216.45.25.88/29,US,LA,Lafayette
+216.45.25.96/29,US,LA,Lafayette
 216.45.25.104/29,US,LA,Lafayette
 216.45.25.112/31,US,LA,Lafayette
 216.45.25.114/31,US,LA,Lafayette
@@ -3480,6 +3481,7 @@
 216.45.26.112/29,US,TX,El Paso
 216.45.26.120/31,US,TX,El Paso
 216.45.26.122/31,US,TX,El Paso
+216.45.26.124/31,US,TX,El Paso
 216.45.26.126/31,US,TX,El Paso
 216.45.26.128/29,US,TX,El Paso
 216.45.26.136/31,US,TX,El Paso
@@ -3493,8 +3495,9 @@
 216.45.26.160/29,US,TX,El Paso
 216.45.26.176/29,US,TX,El Paso
 216.45.26.184/31,US,TX,El Paso
+216.45.26.186/31,US,TX,El Paso
 216.45.26.188/30,US,TX,El Paso
-216.45.26.192/31,US,TX,Vinton
+216.45.26.192/31,US,TX,El Paso
 216.45.26.194/31,US,TX,El Paso
 216.45.26.198/31,US,LA,Shreveport
 216.45.26.200/31,US,TX,El Paso
@@ -3641,7 +3644,6 @@
 216.45.28.236/31,US,LA,Shreveport
 216.45.28.238/31,US,LA,Shreveport
 216.45.28.240/29,US,LA,Shreveport
-216.45.28.248/31,US,LA,Shreveport
 216.45.28.250/31,US,LA,Shreveport
 216.45.28.252/31,US,LA,Shreveport
 216.45.29.0/24,US,TX,Longview
