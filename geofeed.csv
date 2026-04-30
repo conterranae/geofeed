@@ -1,4 +1,4 @@
-# Geofeed generated 2026-04-30 02:21:02 
+# Geofeed generated 2026-04-30 00:22:05 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2588,7 +2588,6 @@
 216.45.7.170/31,US,LA,Lafayette
 216.45.7.174/31,US,LA,Sulphur
 216.45.7.176/31,US,LA,Mamou
-216.45.7.178/31,US,LA,Bunkie
 216.45.7.186/31,US,LA,Lafayette
 216.45.7.188/31,US,LA,New Roads
 216.45.7.190/31,US,LA,Marksville
