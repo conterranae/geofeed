@@ -1,4 +1,4 @@
-# Geofeed generated 2026-05-16 00:22:16 
+# Geofeed generated 2026-05-17 02:21:28 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -632,6 +632,7 @@
 38.114.241.248/31,US,NC,Southepins
 38.114.241.252/31,US,NC,Southepins
 38.114.241.254/31,US,NC,Charlotte
+38.140.172.168/29,US,NC,Charlotte
 38.142.86.88/29,US,TX,Dallas
 63.77.76.224/27,US,LA,Oakdale
 63.110.102.224/27,US,LA,Oakdale
@@ -2426,7 +2427,7 @@
 216.45.2.128/30,US,NC,Charlotte
 216.45.2.132/31,US,NC,Marion
 216.45.2.134/31,US,NC,Huntersvl
-216.45.2.136/31,US,NC,Charlotte
+216.45.2.136/31,US,NC,Huntersvl
 216.45.2.138/31,US,NC,Conover
 216.45.2.140/30,US,NC,Statesvl
 216.45.2.144/29,US,NC,Charlotte
@@ -3867,6 +3868,7 @@
 2001:504:0:5::/64,US,TX,Dallas
 2001:550:2:31::d2:0/112,US,TX,Dallas
 2001:550:2:42::e:0/112,US,TX,El Paso
+2001:550:2:6f::22:0/112,US,NC,Charlotte
 2001:4860:1:1::ff2/127,US,TX,Dallas
 2001:4860:1:1::1600/127,US,TX,Dallas
 2602:fcc9:777::/48,US,TX,Kilgore
