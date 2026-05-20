@@ -1,4 +1,4 @@
-# Geofeed generated 2026-05-20 02:21:25 
+# Geofeed generated 2026-05-20 00:22:28 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1692,6 +1692,8 @@
 157.185.2.66/31,US,TX,Longview
 157.185.2.68/30,US,TX,Longview
 157.185.2.72/30,US,TX,Kilgore
+157.185.2.76/31,US,TX,Longview
+157.185.2.78/31,US,TX,Longview
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
 157.185.32.48/29,US,NC,Charlotte
@@ -3801,6 +3803,9 @@
 216.45.30.80/31,US,LA,Shreveport
 216.45.30.84/30,US,LA,Shreveport
 216.45.30.88/29,US,LA,Shreveport
+216.45.30.96/31,US,LA,Shreveport
+216.45.30.100/31,US,LA,Shreveport
+216.45.30.108/31,US,LA,Shreveport
 216.45.30.116/31,US,LA,Shreveport
 216.45.30.118/31,US,LA,Jena
 216.45.30.120/31,US,LA,Shreveport
@@ -3925,7 +3930,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,,
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -3936,7 +3941,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,,
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
