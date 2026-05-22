@@ -1,4 +1,4 @@
-# Geofeed generated 2026-05-21 00:22:15 
+# Geofeed generated 2026-05-22 02:21:26 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1684,6 +1684,8 @@
 157.185.0.32/31,US,TX,Dallas
 157.185.0.34/31,US,TX,Dallas
 157.185.0.36/31,US,TX,Dallas
+157.185.0.38/31,US,TX,Dallas
+157.185.1.0/24,US,LA,Lafayette
 157.185.1.0/29,US,LA,Lafayette
 157.185.1.8/31,US,LA,Lafayette
 157.185.1.20/31,US,LA,Lafayette
@@ -1697,6 +1699,7 @@
 157.185.2.76/31,US,TX,Longview
 157.185.2.78/31,US,TX,Longview
 157.185.2.80/31,US,TX,Longview
+157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
 157.185.32.48/29,US,NC,Charlotte
@@ -1705,6 +1708,7 @@
 157.185.32.68/31,US,NC,Charlotte
 157.185.32.70/31,US,NC,Charlotte
 157.185.32.72/31,US,NC,Charlotte
+157.185.33.0/24,US,TX,Vinton
 157.240.76.34/31,US,TX,Dallas
 163.77.144.190/31,US,TX,Dallas
 169.254.0.0/24,US,NC,Sanford
