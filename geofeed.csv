@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-03 00:22:42 
+# Geofeed generated 2026-06-04 02:21:48 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -285,6 +285,7 @@
 38.114.228.44/31,US,TX,Longview
 38.114.228.46/31,US,TX,Longview
 38.114.228.48/31,US,TX,Hudson
+38.114.228.50/31,US,TX,Henderson
 38.114.228.52/31,US,TX,Kilgore
 38.114.228.54/31,US,LA,Shreveport
 38.114.228.56/31,US,TX,Longview
@@ -1726,6 +1727,8 @@
 157.185.2.76/31,US,TX,Longview
 157.185.2.78/31,US,TX,Longview
 157.185.2.80/31,US,TX,Longview
+157.185.2.86/31,US,TX,Longview
+157.185.2.128/26,US,TX,Longview
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -1745,6 +1748,7 @@
 157.185.33.48/31,US,TX,El Paso
 157.185.33.50/31,US,TX,El Paso
 157.185.33.52/31,US,TX,El Paso
+157.185.33.60/31,US,TX,Vinton
 157.240.76.34/31,US,TX,Dallas
 163.77.144.190/31,US,TX,Dallas
 169.254.0.0/24,US,NC,Sanford
@@ -3829,7 +3833,6 @@
 216.45.29.176/29,US,TX,El Paso
 216.45.29.184/30,US,TX,Longview
 216.45.29.188/31,US,TX,Longview
-216.45.29.190/31,US,LA,Shreveport
 216.45.29.196/31,US,TX,El Paso
 216.45.29.198/31,US,TX,Longview
 216.45.29.200/31,US,LA,Shreveport
@@ -3901,9 +3904,13 @@
 216.45.30.168/31,US,LA,Shreveport
 216.45.30.170/31,US,LA,Shreveport
 216.45.30.192/29,US,LA,Shreveport
+216.45.30.200/31,US,LA,Shreveport
+216.45.30.202/31,US,LA,Shreveport
+216.45.30.206/31,US,LA,Shreveport
 216.45.30.208/31,US,LA,Shreveport
 216.45.30.210/31,US,LA,Shreveport
 216.45.30.212/31,US,LA,Shreveport
+216.45.30.216/31,US,LA,Shreveport
 216.45.30.218/31,US,LA,Shreveport
 216.45.31.0/24,US,TX,Vinton
 216.45.31.2/31,US,TX,El Paso
@@ -3974,7 +3981,6 @@
 2604:8e80::10:18:9:12/127,US,LA,Marksville
 2604:8e80::10:18:13:2/127,US,LA,Sulphur
 2604:8e80::10:18:15:8/127,US,LA,Shreveport
-2604:8e80::10:18:15:254/127,US,AL,Mobile
 2604:8e80::10:18:16:8/127,US,LA,Minden
 2604:8e80::10:18:20:0/127,US,LA,Opelousas
 2604:8e80::10:18:20:6/127,US,LA,Eunice
@@ -4043,7 +4049,6 @@
 2604:8e80::10:18:252:43/128,US,LA,Lafayette
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
 2604:8e80::10:22:250:11/128,US,AL,Mobile
-2604:8e80::10:22:251:11/128,US,AL,Mobile
 2604:8e80::10:28:0:66/127,US,TX,Dallas
 2604:8e80::10:28:0:68/127,US,TX,Dallas
 2604:8e80::10:28:0:70/127,US,TX,Dallas
@@ -4133,6 +4138,7 @@
 2606:b980:100::/127,US,NC,Charlotte
 2606:b980:100::2/127,US,NC,Charlotte
 2606:b980:100::4/127,US,NC,Charlotte
+2606:b980:100::6/127,US,NC,Charlotte
 2606:b980:100::8/125,US,NC,Charlotte
 2606:b980:100::10/127,US,NC,Charlotte
 2606:b980:100::12/127,US,NC,Charlotte
