@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-08 02:21:43 
+# Geofeed generated 2026-06-08 00:22:44 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -3946,7 +3946,6 @@
 216.45.31.112/31,US,TX,El Paso
 216.45.31.124/31,US,TX,El Paso
 216.45.31.130/31,US,TX,El Paso
-216.45.31.132/30,US,TX,El Paso
 216.45.31.136/29,US,TX,El Paso
 216.45.31.144/30,US,TX,El Paso
 216.45.31.148/31,US,TX,El Paso
