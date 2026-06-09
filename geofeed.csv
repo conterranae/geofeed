@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-09 02:21:44 
+# Geofeed generated 2026-06-09 00:22:47 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1312,6 +1312,7 @@
 139.180.44.0/24,US,NC,Charlotte
 139.180.44.0/26,US,NC,Morganton
 139.180.44.64/27,US,NC,Granitefls
+139.180.44.96/28,US,NC,Goldsboro
 139.180.44.112/28,US,NC,Statesvl
 139.180.44.128/29,US,NC,Lincolnton
 139.180.44.136/29,US,NC,Dunn
@@ -1390,6 +1391,7 @@
 139.180.47.32/28,US,NC,Charlotte
 139.180.47.48/29,US,NC,Charlotte
 139.180.47.56/29,US,NC,Dothan
+139.180.47.64/29,US,NC,Goldsboro
 139.180.47.72/30,US,NC,Monroe
 139.180.47.76/31,US,NC,Southepins
 139.180.47.78/31,US,NC,Charlotte
@@ -1629,7 +1631,7 @@
 139.180.60.240/28,US,NC,Marion
 139.180.61.0/24,US,NC,Charlotte
 139.180.61.2/31,US,NC,Farmville
-139.180.61.8/30,US,NC,Marion
+139.180.61.8/30,US,NC,Charlotte
 139.180.61.12/31,US,NC,Statesvl
 139.180.61.14/31,US,NC,Charlotte
 139.180.61.16/28,US,NC,Lincolnton
@@ -2460,6 +2462,7 @@
 216.45.2.46/31,US,NC,Charlotte
 216.45.2.48/30,US,NC,Smithfield
 216.45.2.52/30,US,NC,Granitefls
+216.45.2.56/30,US,NC,Charlotte
 216.45.2.60/30,US,NC,Monroe
 216.45.2.64/30,US,NC,Statesvl
 216.45.2.68/31,US,NC,Charlotte
@@ -4020,7 +4023,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,,
+2604:8e80::10:18:87:252/127,US,LA,Mansura
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4031,7 +4034,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,,
+2604:8e80::10:18:240:87/128,US,LA,Mansura
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
@@ -4145,6 +4148,7 @@
 2606:b980:100::4/127,US,NC,Charlotte
 2606:b980:100::6/127,US,NC,Charlotte
 2606:b980:100::8/125,US,NC,Charlotte
+2606:b980:100::10/127,US,NC,Charlotte
 2606:b980:100::12/127,US,NC,Charlotte
 2606:b980:100::14/126,US,NC,Charlotte
 2606:b980:800::/127,US,NC,Charlotte
