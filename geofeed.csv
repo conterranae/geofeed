@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-11 00:22:47 
+# Geofeed generated 2026-06-12 02:21:59 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1719,7 +1719,9 @@
 157.185.1.68/31,US,LA,Lafayette
 157.185.1.70/31,US,LA,Lafayette
 157.185.1.72/29,US,LA,Lafayette
-157.185.1.80/29,US,LA,Shreveport
+157.185.1.88/31,US,LA,Lafayette
+157.185.1.90/31,US,LA,Lafayette
+157.185.1.92/31,US,LA,Lafayette
 157.185.2.0/24,US,TX,Longview
 157.185.2.0/26,US,TX,Longview
 157.185.2.64/31,US,TX,Longview
@@ -1742,6 +1744,7 @@
 157.185.32.68/31,US,NC,Charlotte
 157.185.32.70/31,US,NC,Charlotte
 157.185.32.72/31,US,NC,Charlotte
+157.185.32.80/28,US,NC,Charlotte
 157.185.32.252/31,US,NC,Charlotte
 157.185.32.255/32,US,NC,Mocksville
 157.185.33.0/24,US,TX,Vinton
@@ -2119,7 +2122,7 @@
 208.77.168.48/28,US,NC,Charlotte
 208.77.168.64/30,US,NC,Charlotte
 208.77.168.68/31,US,NC,Statesvl
-208.77.168.72/30,US,NC,Morganton
+208.77.168.72/30,US,NC,Durham
 208.77.168.76/31,US,NC,Granitefls
 208.77.168.78/32,US,NC,Charlotte
 208.77.168.80/30,US,NC,Lenoir
@@ -3038,6 +3041,7 @@
 216.45.18.112/31,US,LA,Shreveport
 216.45.18.114/31,US,LA,Shreveport
 216.45.18.116/30,US,LA,Shreveport
+216.45.18.120/31,US,LA,Shreveport
 216.45.18.122/31,US,LA,Shreveport
 216.45.18.124/31,US,LA,Shreveport
 216.45.18.126/31,US,LA,Shreveport
@@ -3929,6 +3933,7 @@
 216.45.30.218/31,US,LA,Shreveport
 216.45.30.224/31,US,LA,Shreveport
 216.45.30.226/31,US,LA,Shreveport
+216.45.30.230/31,US,LA,Shreveport
 216.45.30.236/31,US,LA,Shreveport
 216.45.30.238/31,US,TX,Longview
 216.45.30.248/29,US,LA,Shreveport
