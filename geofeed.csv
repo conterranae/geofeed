@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-15 00:22:58 
+# Geofeed generated 2026-06-16 02:21:54 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1719,9 +1719,11 @@
 157.185.1.68/31,US,LA,Lafayette
 157.185.1.70/31,US,LA,Lafayette
 157.185.1.72/29,US,LA,Lafayette
+157.185.1.86/31,US,LA,Lafayette
 157.185.1.88/31,US,LA,Lafayette
 157.185.1.90/31,US,LA,Lafayette
 157.185.1.92/31,US,LA,Lafayette
+157.185.1.168/29,US,LA,Lafayette
 157.185.2.0/24,US,TX,Longview
 157.185.2.0/26,US,TX,Longview
 157.185.2.64/31,US,TX,Longview
@@ -1732,9 +1734,13 @@
 157.185.2.78/31,US,TX,Longview
 157.185.2.80/31,US,TX,Longview
 157.185.2.86/31,US,TX,Longview
+157.185.2.88/31,US,TX,Longview
+157.185.2.90/31,US,TX,Longview
 157.185.2.124/31,US,TX,Longview
 157.185.2.126/31,US,TX,Longview
 157.185.2.128/26,US,TX,Longview
+157.185.3.0/24,US,LA,Shreveport
+157.185.3.0/29,US,LA,Shreveport
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -4012,7 +4018,6 @@
 2604:8e80::10:18:9:12/127,US,LA,Marksville
 2604:8e80::10:18:13:2/127,US,LA,Sulphur
 2604:8e80::10:18:15:8/127,US,LA,Shreveport
-2604:8e80::10:18:15:254/127,US,,
 2604:8e80::10:18:16:8/127,US,LA,Minden
 2604:8e80::10:18:20:0/127,US,LA,Opelousas
 2604:8e80::10:18:20:6/127,US,LA,Eunice
@@ -4087,7 +4092,6 @@
 2604:8e80::10:18:252:112/128,US,LA,Shreveport
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
 2604:8e80::10:22:250:11/128,US,AL,Mobile
-2604:8e80::10:22:251:11/128,US,,
 2604:8e80::10:28:0:66/127,US,TX,Dallas
 2604:8e80::10:28:0:68/127,US,TX,Dallas
 2604:8e80::10:28:0:70/127,US,TX,Dallas
