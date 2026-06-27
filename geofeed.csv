@@ -1,4 +1,4 @@
-# Geofeed generated 2026-06-26 00:23:16 
+# Geofeed generated 2026-06-27 00:23:12 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1630,7 +1630,7 @@
 139.180.60.240/28,US,NC,Marion
 139.180.61.0/24,US,NC,Charlotte
 139.180.61.2/31,US,NC,Farmville
-139.180.61.8/30,US,NC,Marion
+139.180.61.8/30,US,NC,Charlotte
 139.180.61.12/31,US,NC,Statesvl
 139.180.61.14/31,US,NC,Charlotte
 139.180.61.16/28,US,NC,Lincolnton
@@ -1727,6 +1727,7 @@
 157.185.1.68/31,US,LA,Lafayette
 157.185.1.70/31,US,LA,Lafayette
 157.185.1.72/29,US,LA,Lafayette
+157.185.1.80/31,US,LA,Lafayette
 157.185.1.82/31,US,LA,Lafayette
 157.185.1.84/31,US,LA,Lafayette
 157.185.1.86/31,US,LA,Lafayette
@@ -1745,9 +1746,11 @@
 157.185.1.112/31,US,LA,Lafayette
 157.185.1.114/31,US,LA,Lafayette
 157.185.1.118/31,US,LA,Lafayette
+157.185.1.130/31,US,LA,Lafayette
 157.185.1.160/29,US,LA,Lafayette
 157.185.1.168/29,US,LA,Lafayette
 157.185.1.176/31,US,LA,Lafayette
+157.185.1.178/31,US,LA,Shreveport
 157.185.1.180/31,US,LA,Shreveport
 157.185.1.184/31,US,LA,Lafayette
 157.185.1.186/31,US,LA,Lafayette
@@ -1775,6 +1778,7 @@
 157.185.2.126/31,US,TX,Longview
 157.185.2.128/26,US,TX,Longview
 157.185.2.192/30,US,TX,Longview
+157.185.2.196/31,US,TX,Longview
 157.185.2.200/29,US,TX,Longview
 157.185.2.208/30,US,TX,Longview
 157.185.3.0/24,US,LA,Shreveport
@@ -2189,7 +2193,7 @@
 208.77.168.48/28,US,NC,Charlotte
 208.77.168.64/30,US,NC,Charlotte
 208.77.168.68/31,US,NC,Statesvl
-208.77.168.72/30,US,NC,Durham
+208.77.168.72/30,US,NC,Morganton
 208.77.168.76/31,US,NC,Granitefls
 208.77.168.78/32,US,NC,Charlotte
 208.77.168.80/30,US,NC,Lenoir
@@ -3273,6 +3277,7 @@
 216.45.20.230/31,US,LA,Lafayette
 216.45.20.232/29,US,LA,Batonrouge
 216.45.20.240/31,US,LA,Lafayette
+216.45.20.242/31,US,LA,Lafayette
 216.45.20.244/31,US,LA,Lafayette
 216.45.20.246/31,US,LA,Lafayette
 216.45.20.248/31,US,LA,Lafayette
@@ -3520,6 +3525,7 @@
 216.45.24.14/31,US,LA,Shreveport
 216.45.24.16/30,US,LA,Shreveport
 216.45.24.20/31,US,LA,Shreveport
+216.45.24.22/31,US,LA,Shreveport
 216.45.24.24/31,US,LA,Shreveport
 216.45.24.28/31,US,LA,Shreveport
 216.45.24.30/31,US,LA,Shreveport
@@ -3635,6 +3641,7 @@
 216.45.25.172/31,US,LA,Lafayette
 216.45.25.174/31,US,LA,Lafayette
 216.45.25.176/31,US,LA,Lafayette
+216.45.25.178/31,US,LA,Lafayette
 216.45.25.180/31,US,LA,Lafayette
 216.45.25.182/31,US,LA,Lafayette
 216.45.25.184/31,US,LA,Lafayette
@@ -3848,6 +3855,7 @@
 216.45.28.144/29,US,LA,Shreveport
 216.45.28.152/29,US,LA,Shreveport
 216.45.28.160/29,US,LA,Shreveport
+216.45.28.168/31,US,LA,Shreveport
 216.45.28.170/31,US,LA,Shreveport
 216.45.28.172/31,US,LA,Shreveport
 216.45.28.174/31,US,LA,Shreveport
@@ -3983,6 +3991,7 @@
 216.45.30.120/31,US,LA,Shreveport
 216.45.30.122/31,US,LA,Shreveport
 216.45.30.124/31,US,LA,Shreveport
+216.45.30.126/31,US,LA,Shreveport
 216.45.30.128/31,US,LA,Shreveport
 216.45.30.130/31,US,LA,Shreveport
 216.45.30.132/31,US,LA,Shreveport
@@ -4013,12 +4022,15 @@
 216.45.30.220/31,US,LA,Lafayette
 216.45.30.224/31,US,LA,Shreveport
 216.45.30.226/31,US,LA,Shreveport
+216.45.30.228/31,US,LA,Shreveport
 216.45.30.230/31,US,LA,Shreveport
 216.45.30.232/31,US,LA,Shreveport
 216.45.30.234/31,US,LA,Shreveport
 216.45.30.236/31,US,LA,Shreveport
 216.45.30.238/31,US,TX,Longview
+216.45.30.240/31,US,LA,Shreveport
 216.45.30.244/31,US,TX,El Paso
+216.45.30.246/31,US,LA,Shreveport
 216.45.30.248/29,US,LA,Shreveport
 216.45.31.0/24,US,TX,Vinton
 216.45.31.2/31,US,TX,El Paso
@@ -4126,7 +4138,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,,
+2604:8e80::10:18:87:252/127,US,LA,Mansura
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4140,7 +4152,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,,
+2604:8e80::10:18:240:87/128,US,LA,Mansura
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
@@ -4195,8 +4207,8 @@
 2604:8e80::10:28:94:2/127,US,TX,Sanantonio
 2604:8e80::10:28:94:8/127,US,TX,Richmnrnbg
 2604:8e80::10:28:94:10/127,US,TX,Richmnrnbg
-2604:8e80::10:28:113:0/127,US,LA,Mansura
-2604:8e80::10:28:240:13/128,US,LA,Mansura
+2604:8e80::10:28:113:0/127,US,TX,Longview
+2604:8e80::10:28:240:13/128,US,TX,Longview
 2604:8e80::10:28:240:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:94/128,US,TX,Richmnrnbg
@@ -4257,6 +4269,7 @@
 2606:b980:100::4/127,US,NC,Charlotte
 2606:b980:100::6/127,US,NC,Charlotte
 2606:b980:100::8/125,US,NC,Charlotte
+2606:b980:100::10/127,US,NC,Charlotte
 2606:b980:100::12/127,US,NC,Charlotte
 2606:b980:100::14/126,US,NC,Charlotte
 2606:b980:800::/127,US,NC,Charlotte
