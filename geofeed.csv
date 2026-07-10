@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-09 00:23:13 
+# Geofeed generated 2026-07-10 00:23:17 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1748,14 +1748,14 @@
 157.185.1.112/31,US,LA,Lafayette
 157.185.1.114/31,US,LA,Lafayette
 157.185.1.118/31,US,LA,Lafayette
-157.185.1.120/31,US,LA,Vl Platte
 157.185.1.122/31,US,LA,Lafayette
-157.185.1.124/31,US,LA,Vl Platte
 157.185.1.126/31,US,LA,Lafayette
 157.185.1.128/31,US,LA,Lafayette
 157.185.1.130/31,US,LA,Lafayette
 157.185.1.132/31,US,LA,Lafayette
 157.185.1.134/31,US,LA,Lafayette
+157.185.1.136/31,US,LA,Lafayette
+157.185.1.138/31,US,LA,Lafayette
 157.185.1.160/29,US,LA,Lafayette
 157.185.1.168/29,US,LA,Lafayette
 157.185.1.176/31,US,LA,Lafayette
@@ -1807,12 +1807,12 @@
 157.185.3.30/31,US,LA,Shreveport
 157.185.3.64/29,US,LA,Alexandria
 157.185.3.72/31,US,LA,Shreveport
-157.185.3.74/31,US,LA,Shreveport
 157.185.3.76/31,US,LA,Shreveport
 157.185.3.78/31,US,LA,Shreveport
 157.185.3.80/31,US,LA,Shreveport
 157.185.3.88/29,US,LA,Shreveport
 157.185.3.96/28,US,LA,Shreveport
+157.185.3.120/30,US,LA,Shreveport
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -4245,8 +4245,8 @@
 2604:8e80::10:28:94:8/127,US,TX,Richmnrnbg
 2604:8e80::10:28:94:10/127,US,TX,Richmnrnbg
 2604:8e80::10:28:108:0/127,US,TX,Dallas
-2604:8e80::10:28:113:0/127,US,LA,Mansura
-2604:8e80::10:28:240:13/128,US,LA,Mansura
+2604:8e80::10:28:113:0/127,US,TX,Longview
+2604:8e80::10:28:240:13/128,US,TX,Longview
 2604:8e80::10:28:240:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:73/128,US,TX,Sanantonio
 2604:8e80::10:28:241:94/128,US,TX,Richmnrnbg
