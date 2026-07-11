@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-10 00:23:17 
+# Geofeed generated 2026-07-11 00:23:15 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1805,6 +1805,7 @@
 157.185.3.22/31,US,LA,Shreveport
 157.185.3.28/31,US,LA,Shreveport
 157.185.3.30/31,US,LA,Shreveport
+157.185.3.32/29,US,LA,Shreveport
 157.185.3.64/29,US,LA,Alexandria
 157.185.3.72/31,US,LA,Shreveport
 157.185.3.76/31,US,LA,Shreveport
@@ -4174,7 +4175,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Shreveport
+2604:8e80::10:18:87:252/127,US,LA,Mansura
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4188,7 +4189,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Shreveport
+2604:8e80::10:18:240:87/128,US,LA,Mansura
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
