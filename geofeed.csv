@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-19 00:23:05 
+# Geofeed generated 2026-07-20 00:23:06 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -3475,6 +3475,7 @@
 216.45.22.222/31,US,LA,Lafayette
 216.45.22.232/31,US,TX,Longview
 216.45.22.234/31,US,TX,Dallas
+216.45.22.236/31,US,LA,Shreveport
 216.45.22.240/29,US,LA,Shreveport
 216.45.22.248/29,US,LA,Shreveport
 216.45.23.0/24,US,TX,Longview
@@ -4185,7 +4186,6 @@
 2604:8e80::10:18:51:24/127,US,LA,Oakdale
 2604:8e80::10:18:52:6/127,US,LA,Fenton
 2604:8e80::10:18:62:2/127,US,LA,De Ridder
-2604:8e80::10:18:62:4/127,US,LA,Leesville
 2604:8e80::10:18:63:16/127,US,LA,St Landry
 2604:8e80::10:18:75:0/127,US,LA,Opelousas
 2604:8e80::10:18:75:2/127,US,LA,Eunice
@@ -4252,10 +4252,8 @@
 2604:8e80::10:28:31:0/127,US,TX,El Paso
 2604:8e80::10:28:31:2/127,US,TX,El Paso
 2604:8e80::10:28:73:2/127,US,TX,Sanantonio
-2604:8e80::10:28:73:4/127,US,TX,Sanantonio
 2604:8e80::10:28:73:8/127,US,TX,Sanantonio
 2604:8e80::10:28:73:10/127,US,TX,Sanantonio
-2604:8e80::10:28:74:0/127,US,TX,Sanantonio
 2604:8e80::10:28:74:2/127,US,TX,Sanantonio
 2604:8e80::10:28:74:4/127,US,TX,Sanantonio
 2604:8e80::10:28:74:6/127,US,TX,Sanantonio
@@ -4277,7 +4275,6 @@
 2604:8e80::10:28:248:0/128,US,TX,Dallas
 2604:8e80::10:28:249:0/128,US,TX,Dallas
 2604:8e80::10:28:250:31/128,US,TX,El Paso
-2604:8e80::10:28:250:71/128,US,TX,Sanantonio
 2604:8e80::10:28:250:74/128,US,TX,Sanantonio
 2604:8e80::10:28:250:108/128,US,TX,Dallas
 2604:8e80::10:28:251:73/128,US,TX,Sanantonio
