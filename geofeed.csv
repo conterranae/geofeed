@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-23 00:23:13 
+# Geofeed generated 2026-07-24 00:23:09 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1778,6 +1778,8 @@
 157.185.2.96/31,US,TX,Longview
 157.185.2.98/31,US,TX,Longview
 157.185.2.100/31,US,TX,Kilgore
+157.185.2.102/31,US,TX,Longview
+157.185.2.104/29,US,TX,Longview
 157.185.2.112/31,US,TX,Longview
 157.185.2.114/31,US,TX,Longview
 157.185.2.120/30,US,TX,Longview
@@ -1815,10 +1817,12 @@
 157.185.3.76/31,US,LA,Shreveport
 157.185.3.78/31,US,LA,Shreveport
 157.185.3.80/31,US,LA,Shreveport
+157.185.3.82/31,US,LA,Shreveport
 157.185.3.84/31,US,LA,Shreveport
 157.185.3.86/31,US,LA,Shreveport
 157.185.3.88/29,US,LA,Shreveport
 157.185.3.96/28,US,LA,Shreveport
+157.185.3.112/29,US,LA,Shreveport
 157.185.3.120/30,US,LA,Shreveport
 157.185.3.124/31,US,LA,Shreveport
 157.185.3.128/31,US,LA,Shreveport
@@ -1830,9 +1834,17 @@
 157.185.3.140/30,US,LA,Shreveport
 157.185.3.144/31,US,LA,Shreveport
 157.185.3.146/31,US,LA,Shreveport
+157.185.3.150/31,US,LA,Shreveport
+157.185.3.152/29,US,LA,Shreveport
 157.185.3.160/27,US,LA,Shreveport
+157.185.3.194/31,US,LA,Shreveport
+157.185.3.202/31,US,LA,Shreveport
+157.185.3.204/31,US,LA,Shreveport
+157.185.3.206/31,US,LA,Shreveport
+157.185.3.208/31,US,LA,Shreveport
 157.185.4.0/24,US,TX,Longview
 157.185.4.0/27,US,TX,Longview
+157.185.4.36/31,US,TX,Longview
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -1852,6 +1864,7 @@
 157.185.32.114/31,US,NC,Charlotte
 157.185.32.120/29,US,NC,Charlotte
 157.185.32.128/27,US,NC,Charlotte
+157.185.32.160/29,US,NC,Charlotte
 157.185.32.200/31,US,NC,Charlotte
 157.185.32.202/31,US,NC,Charlotte
 157.185.32.204/31,US,NC,Charlotte
@@ -3870,6 +3883,7 @@
 216.45.27.180/31,US,NC,Charlotte
 216.45.27.182/31,US,NC,Charlotte
 216.45.27.184/29,US,NC,Charlotte
+216.45.27.192/29,US,NC,Charlotte
 216.45.27.200/29,US,NC,Charlotte
 216.45.27.208/29,US,NC,Charlotte
 216.45.27.216/31,US,NC,Charlotte
@@ -4216,7 +4230,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,LA,Shreveport
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4230,7 +4244,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,LA,Shreveport
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
@@ -4354,6 +4368,7 @@
 2606:b980:100::12/127,US,NC,Charlotte
 2606:b980:100::14/126,US,NC,Charlotte
 2606:b980:101::/48,US,NC,Charlotte
+2606:b980:102::/64,US,NC,Charlotte
 2606:b980:800::/127,US,NC,Charlotte
 2620:0:1cff:dead:beee::1102/127,US,TX,Dallas
 2620:0:1cff:dead:beee::24f0/127,US,TX,Dallas
