@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-28 00:23:07 
+# Geofeed generated 2026-07-30 00:23:13 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1364,6 +1364,7 @@
 139.180.46.244/30,US,LA,Jena
 139.180.46.248/29,US,TX,El Paso
 139.180.47.0/24,US,NC,Charlotte
+139.180.47.0/31,US,NC,Charlotte
 139.180.47.2/31,US,NC,Monroe
 139.180.47.4/31,US,NC,Monroe
 139.180.47.6/31,US,NC,Charlotte
@@ -1393,6 +1394,10 @@
 139.180.48.0/24,US,NC,Charlotte
 139.180.48.0/28,US,NC,Conover
 139.180.48.16/29,US,NC,Morganton
+139.180.48.16/31,US,NC,Charlotte
+139.180.48.18/31,US,NC,Charlotte
+139.180.48.20/31,US,NC,Charlotte
+139.180.48.22/31,US,NC,Charlotte
 139.180.48.24/29,US,NC,Statesvl
 139.180.48.32/28,US,NC,Mooresvl
 139.180.48.48/29,US,NC,Marion
@@ -1413,6 +1418,7 @@
 139.180.49.0/27,US,NC,Charlotte
 139.180.49.36/30,US,NC,Mooresvl
 139.180.49.40/29,US,NC,Southepins
+139.180.49.48/31,US,NC,Charlotte
 139.180.49.50/31,US,NC,Charlotte
 139.180.49.52/31,US,NC,Granitefls
 139.180.49.54/31,US,NC,Statesvl
@@ -1427,6 +1433,7 @@
 139.180.49.192/28,US,NC,Monroe
 139.180.49.208/29,US,NC,Granitefls
 139.180.49.220/31,US,NC,Statesvl
+139.180.49.222/31,US,NC,Charlotte
 139.180.49.224/27,US,NC,Granitefls
 139.180.50.0/24,US,TX,Kilgore
 139.180.50.128/27,US,TX,Texarkana
@@ -1678,6 +1685,7 @@
 157.185.0.62/31,US,TX,Dallas
 157.185.0.66/31,US,TX,Dallas
 157.185.0.68/31,US,TX,Dallas
+157.185.0.70/31,US,TX,Dallas
 157.185.0.80/31,US,TX,Dallas
 157.185.0.82/31,US,TX,Dallas
 157.185.0.84/30,US,TX,Dallas
@@ -1753,6 +1761,9 @@
 157.185.1.142/31,US,LA,Lafayette
 157.185.1.144/31,US,LA,Lafayette
 157.185.1.146/31,US,LA,Lafayette
+157.185.1.150/31,US,LA,Lafayette
+157.185.1.154/31,US,LA,Lafayette
+157.185.1.156/31,US,LA,Lafayette
 157.185.1.160/29,US,LA,Lafayette
 157.185.1.168/29,US,LA,Lafayette
 157.185.1.176/31,US,LA,Lafayette
@@ -1763,6 +1774,8 @@
 157.185.1.186/31,US,LA,Lafayette
 157.185.1.188/31,US,LA,Lafayette
 157.185.1.190/31,US,LA,New Iberia
+157.185.1.192/29,US,LA,Lafayette
+157.185.1.200/29,US,LA,Lafayette
 157.185.2.0/24,US,TX,Longview
 157.185.2.0/26,US,TX,Longview
 157.185.2.64/31,US,TX,Longview
@@ -1799,6 +1812,7 @@
 157.185.2.224/31,US,TX,Longview
 157.185.2.226/31,US,TX,Longview
 157.185.2.228/31,US,TX,Longview
+157.185.2.230/31,US,TX,Longview
 157.185.2.232/29,US,TX,Longview
 157.185.3.0/24,US,LA,Shreveport
 157.185.3.0/29,US,LA,Shreveport
@@ -1838,14 +1852,19 @@
 157.185.3.140/30,US,LA,Shreveport
 157.185.3.144/31,US,LA,Shreveport
 157.185.3.146/31,US,LA,Shreveport
+157.185.3.148/31,US,LA,Shreveport
 157.185.3.150/31,US,LA,Shreveport
 157.185.3.152/29,US,LA,Shreveport
 157.185.3.160/27,US,LA,Shreveport
+157.185.3.192/31,US,LA,Shreveport
 157.185.3.194/31,US,LA,Shreveport
 157.185.3.202/31,US,LA,Shreveport
 157.185.3.204/31,US,LA,Shreveport
 157.185.3.206/31,US,LA,Shreveport
 157.185.3.208/31,US,LA,Shreveport
+157.185.3.210/31,US,LA,Shreveport
+157.185.3.212/31,US,LA,Shreveport
+157.185.3.216/29,US,LA,Shreveport
 157.185.4.0/24,US,TX,Longview
 157.185.4.0/27,US,TX,Longview
 157.185.4.36/31,US,TX,Longview
@@ -1878,6 +1897,7 @@
 157.185.32.212/30,US,NC,Charlotte
 157.185.32.216/31,US,NC,Charlotte
 157.185.32.218/31,US,NC,Charlotte
+157.185.32.220/31,US,NC,Charlotte
 157.185.32.240/29,US,NC,Southepins
 157.185.32.248/31,US,NC,Charlotte
 157.185.32.250/31,US,NC,Charlotte
@@ -2170,6 +2190,7 @@
 199.83.227.64/27,US,NC,Farmville
 199.83.227.96/30,US,NC,Moreheadcy
 199.83.227.100/31,US,NC,Claremont
+199.83.227.102/31,US,NC,Charlotte
 199.83.227.104/29,US,NC,Randleman
 199.83.227.112/29,US,NC,Charlotte
 199.83.227.120/30,US,NC,Smithfield
@@ -3712,7 +3733,6 @@
 216.45.25.114/31,US,LA,Lafayette
 216.45.25.116/31,US,LA,Lafayette
 216.45.25.118/31,US,LA,Lafayette
-216.45.25.120/31,US,LA,Lafayette
 216.45.25.122/31,US,LA,Lafayette
 216.45.25.124/30,US,LA,Lafayette
 216.45.25.132/30,US,LA,Lafayette
@@ -3840,6 +3860,7 @@
 216.45.27.8/29,US,NC,Charlotte
 216.45.27.16/31,US,NC,Charlotte
 216.45.27.18/31,US,NC,Charlotte
+216.45.27.20/31,US,NC,Charlotte
 216.45.27.22/31,US,NC,Charlotte
 216.45.27.24/30,US,NC,Charlotte
 216.45.27.28/31,US,NC,Charlotte
@@ -4235,7 +4256,7 @@
 2604:8e80::10:18:75:4/127,US,LA,Eunice
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,LA,Shreveport
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4249,7 +4270,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,LA,Shreveport
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
