@@ -1,4 +1,4 @@
-# Geofeed generated 2026-07-30 00:23:13 
+# Geofeed generated 2026-07-31 00:23:11 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1762,8 +1762,10 @@
 157.185.1.144/31,US,LA,Lafayette
 157.185.1.146/31,US,LA,Lafayette
 157.185.1.150/31,US,LA,Lafayette
+157.185.1.152/31,US,LA,Lafayette
 157.185.1.154/31,US,LA,Lafayette
 157.185.1.156/31,US,LA,Lafayette
+157.185.1.158/31,US,LA,Lafayette
 157.185.1.160/29,US,LA,Lafayette
 157.185.1.168/29,US,LA,Lafayette
 157.185.1.176/31,US,LA,Lafayette
@@ -1776,6 +1778,13 @@
 157.185.1.190/31,US,LA,New Iberia
 157.185.1.192/29,US,LA,Lafayette
 157.185.1.200/29,US,LA,Lafayette
+157.185.1.208/29,US,LA,Lafayette
+157.185.1.216/31,US,LA,Lafayette
+157.185.1.218/31,US,LA,Lafayette
+157.185.1.220/31,US,LA,Lafayette
+157.185.1.222/31,US,LA,Lafayette
+157.185.1.224/29,US,LA,Lafayette
+157.185.1.232/29,US,LA,Lafayette
 157.185.2.0/24,US,TX,Longview
 157.185.2.0/26,US,TX,Longview
 157.185.2.64/31,US,TX,Longview
@@ -1842,7 +1851,6 @@
 157.185.3.96/28,US,LA,Shreveport
 157.185.3.112/29,US,LA,Shreveport
 157.185.3.120/30,US,LA,Shreveport
-157.185.3.124/31,US,LA,Shreveport
 157.185.3.128/31,US,LA,Shreveport
 157.185.3.130/31,US,LA,Shreveport
 157.185.3.132/31,US,LA,Shreveport
@@ -1864,10 +1872,15 @@
 157.185.3.208/31,US,LA,Shreveport
 157.185.3.210/31,US,LA,Shreveport
 157.185.3.212/31,US,LA,Shreveport
+157.185.3.214/31,US,LA,Shreveport
 157.185.3.216/29,US,LA,Shreveport
+157.185.3.224/31,US,LA,Shreveport
+157.185.3.228/30,US,LA,Shreveport
 157.185.4.0/24,US,TX,Longview
 157.185.4.0/27,US,TX,Longview
 157.185.4.36/31,US,TX,Longview
+157.185.4.38/31,US,TX,Longview
+157.185.4.40/29,US,TX,Longview
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -1888,6 +1901,7 @@
 157.185.32.120/29,US,NC,Charlotte
 157.185.32.128/27,US,NC,Charlotte
 157.185.32.160/29,US,NC,Charlotte
+157.185.32.168/29,US,NC,Charlotte
 157.185.32.200/31,US,NC,Charlotte
 157.185.32.202/31,US,NC,Charlotte
 157.185.32.204/31,US,NC,Charlotte
@@ -4179,6 +4193,7 @@
 216.45.31.104/31,US,TX,El Paso
 216.45.31.110/31,US,TX,El Paso
 216.45.31.112/31,US,TX,El Paso
+216.45.31.122/31,US,TX,El Paso
 216.45.31.124/31,US,TX,El Paso
 216.45.31.130/31,US,TX,El Paso
 216.45.31.132/30,US,TX,Vinton
@@ -4192,7 +4207,7 @@
 216.45.31.230/31,US,TX,El Paso
 216.45.31.232/31,US,TX,El Paso
 216.45.31.234/31,US,TX,El Paso
-216.45.31.236/31,US,TX,El Paso
+216.45.31.236/31,US,TX,Vinton
 216.45.31.240/31,US,TX,El Paso
 216.45.31.242/31,US,TX,El Paso
 216.45.31.250/31,US,TX,El Paso
