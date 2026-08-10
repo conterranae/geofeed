@@ -1,4 +1,4 @@
-# Geofeed generated 2026-08-09 00:23:11 
+# Geofeed generated 2026-08-10 00:23:14 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1687,6 +1687,7 @@
 157.185.0.66/31,US,TX,Dallas
 157.185.0.68/31,US,TX,Dallas
 157.185.0.70/31,US,TX,Dallas
+157.185.0.72/29,US,TX,Dallas
 157.185.0.80/31,US,TX,Dallas
 157.185.0.82/31,US,TX,Dallas
 157.185.0.84/30,US,TX,Dallas
@@ -1919,6 +1920,8 @@
 157.185.32.160/29,US,NC,Charlotte
 157.185.32.168/29,US,NC,Charlotte
 157.185.32.176/31,US,NC,Charlotte
+157.185.32.178/31,US,NC,Charlotte
+157.185.32.180/31,US,NC,Charlotte
 157.185.32.200/31,US,NC,Charlotte
 157.185.32.202/31,US,NC,Charlotte
 157.185.32.204/31,US,NC,Charlotte
@@ -2784,6 +2787,7 @@
 216.45.5.176/29,US,NC,Charlotte
 216.45.5.184/31,US,NC,Charlotte
 216.45.5.186/31,US,NC,Charlotte
+216.45.5.188/30,US,NC,Charlotte
 216.45.5.192/26,US,NC,Charlotte
 216.45.6.0/24,US,LA,Shreveport
 216.45.6.0/30,US,LA,Shreveport
@@ -4033,6 +4037,7 @@
 216.45.28.222/31,US,LA,Shreveport
 216.45.28.224/29,US,LA,Shreveport
 216.45.28.232/31,US,LA,Shreveport
+216.45.28.234/31,US,LA,Shreveport
 216.45.28.236/31,US,LA,Shreveport
 216.45.28.238/31,US,LA,Shreveport
 216.45.28.240/29,US,LA,Shreveport
@@ -4122,6 +4127,7 @@
 216.45.30.70/31,US,LA,Shreveport
 216.45.30.74/31,US,LA,Shreveport
 216.45.30.76/31,US,LA,Shreveport
+216.45.30.78/31,US,LA,Shreveport
 216.45.30.80/31,US,LA,Shreveport
 216.45.30.82/31,US,TX,Longview
 216.45.30.84/30,US,LA,Shreveport
@@ -4293,7 +4299,6 @@
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
 2604:8e80::10:18:87:252/127,US,LA,Mansura
-2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
 2604:8e80::10:18:112:2/127,US,LA,Shreveport
@@ -4332,7 +4337,6 @@
 2604:8e80::10:18:252:43/128,US,LA,Lafayette
 2604:8e80::10:18:252:112/128,US,LA,Shreveport
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
-2604:8e80::10:22:250:11/128,US,AL,Mobile
 2604:8e80::10:22:251:11/128,US,AL,Mobile
 2604:8e80::10:28:0:66/127,US,TX,Dallas
 2604:8e80::10:28:0:68/127,US,TX,Dallas
