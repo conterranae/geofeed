@@ -1,4 +1,4 @@
-# Geofeed generated 2026-08-13 00:23:13 
+# Geofeed generated 2026-08-14 00:23:18 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -633,6 +633,7 @@
 38.114.241.254/31,US,NC,Charlotte
 38.140.172.168/29,US,NC,Charlotte
 38.142.86.88/29,US,TX,Dallas
+64.28.208.0/26,US,NC,Mocksville
 66.136.112.0/24,US,TX,El Paso
 68.70.237.0/24,US,LA,Lafayette
 69.63.160.0/20,US,TX,Dallas
@@ -1898,6 +1899,7 @@
 157.185.4.36/31,US,TX,Longview
 157.185.4.38/31,US,TX,Longview
 157.185.4.40/29,US,TX,Longview
+157.185.4.48/29,US,TX,Longview
 157.185.4.56/29,US,TX,Longview
 157.185.4.64/27,US,TX,Longview
 157.185.5.0/24,US,LA,Shreveport
@@ -1909,6 +1911,7 @@
 157.185.5.14/31,US,LA,Shreveport
 157.185.5.16/31,US,LA,Shreveport
 157.185.5.18/31,US,LA,Shreveport
+157.185.5.20/31,US,LA,Shreveport
 157.185.6.0/24,US,LA,Lafayette
 157.185.6.16/31,US,LA,Lafayette
 157.185.6.20/30,US,LA,Lafayette
@@ -4318,9 +4321,10 @@
 2604:8e80::10:18:75:0/127,US,LA,Opelousas
 2604:8e80::10:18:75:2/127,US,LA,Eunice
 2604:8e80::10:18:75:4/127,US,LA,Eunice
+2604:8e80::10:18:76:16/127,US,LA,Shreveport
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Mansura
+2604:8e80::10:18:87:252/127,US,LA,Shreveport
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4334,7 +4338,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Mansura
+2604:8e80::10:18:240:87/128,US,LA,Shreveport
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
@@ -4359,6 +4363,7 @@
 2604:8e80::10:18:251:114/128,US,LA,Shreveport
 2604:8e80::10:18:252:43/128,US,LA,Lafayette
 2604:8e80::10:18:252:112/128,US,LA,Shreveport
+2604:8e80::10:18:253:76/128,US,LA,Shreveport
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
 2604:8e80::10:22:250:11/128,US,AL,Mobile
 2604:8e80::10:22:251:11/128,US,AL,Mobile
@@ -4464,6 +4469,8 @@
 2604:8e80:3500::4/127,US,LA,Lafayette
 2604:8e80:3600::/126,US,LA,Shreveport
 2604:8e80:3600::/127,US,TX,Longview
+2604:8e80:3700::/40,US,LA,Shreveport
+2604:8e80:3700::/127,US,LA,Shreveport
 2606:8380::/48,US,TX,Longview
 2606:b980::/32,US,NC,Charlotte
 2606:b980:100::/127,US,NC,Charlotte
