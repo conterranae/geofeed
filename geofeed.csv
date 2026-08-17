@@ -1,4 +1,4 @@
-# Geofeed generated 2026-08-16 00:23:18 
+# Geofeed generated 2026-08-17 00:23:20 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -780,7 +780,6 @@
 69.63.167.200/29,US,LA,De Ridder
 69.63.167.208/29,US,LA,De Ridder
 69.63.167.224/29,US,LA,Vl Platte
-69.63.167.232/30,US,LA,Sulphur
 69.63.167.236/30,US,LA,Oakdale
 69.63.167.248/31,US,TX,Vinton
 69.63.167.250/31,US,LA,Monroe
@@ -922,6 +921,7 @@
 69.194.177.96/29,US,LA,Opelousas
 69.194.177.104/31,US,LA,Opelousas
 69.194.177.106/31,US,LA,Lafayette
+69.194.177.108/30,US,LA,Eunice
 69.194.177.112/30,US,LA,Lafayette
 69.194.177.116/30,US,LA,Lafayette
 69.194.177.120/29,US,LA,Jennings
