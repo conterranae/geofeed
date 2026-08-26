@@ -1,4 +1,4 @@
-# Geofeed generated 2026-08-25 00:23:51 
+# Geofeed generated 2026-08-26 00:23:50 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1881,6 +1881,7 @@
 157.185.3.160/27,US,LA,Shreveport
 157.185.3.192/31,US,LA,Shreveport
 157.185.3.194/31,US,LA,Shreveport
+157.185.3.200/31,US,LA,Shreveport
 157.185.3.202/31,US,LA,Shreveport
 157.185.3.204/31,US,LA,Shreveport
 157.185.3.206/31,US,LA,Shreveport
@@ -1940,7 +1941,12 @@
 157.185.5.48/29,US,LA,Shreveport
 157.185.5.56/29,US,LA,Shreveport
 157.185.5.72/31,US,LA,Shreveport
+157.185.5.76/31,US,LA,Shreveport
+157.185.5.78/31,US,LA,Shreveport
 157.185.5.80/31,US,LA,Shreveport
+157.185.5.82/31,US,LA,Shreveport
+157.185.5.84/31,US,LA,Shreveport
+157.185.5.86/31,US,LA,Shreveport
 157.185.6.0/24,US,LA,Lafayette
 157.185.6.0/29,US,LA,Sulphur
 157.185.6.8/31,US,LA,Lafayette
@@ -2486,6 +2492,7 @@
 208.77.171.36/30,US,NC,Morganton
 208.77.171.40/29,US,NC,Charlotte
 208.77.171.48/30,US,NC,Rockymount
+208.77.171.52/30,US,NC,Charlotte
 208.77.171.56/30,US,NC,Marion
 208.77.171.60/31,US,NC,Charlotte
 208.77.171.64/31,US,NC,Charlotte
@@ -3598,6 +3605,7 @@
 216.45.22.64/28,US,TX,Dallas
 216.45.22.80/30,US,TX,Dallas
 216.45.22.84/31,US,TX,Dallas
+216.45.22.86/31,US,TX,Dallas
 216.45.22.88/31,US,TX,Dallas
 216.45.22.90/31,US,LA,Shreveport
 216.45.22.92/31,US,LA,New Iberia
@@ -4376,7 +4384,7 @@
 2604:8e80::10:18:76:16/127,US,LA,Shreveport
 2604:8e80::10:18:78:2/127,US,LA,St Landry
 2604:8e80::10:18:78:4/127,US,LA,St Landry
-2604:8e80::10:18:87:252/127,US,LA,Shreveport
+2604:8e80::10:18:87:252/127,US,LA,Mansura
 2604:8e80::10:18:91:6/127,US,AL,Mobile
 2604:8e80::10:18:94:2/127,US,LA,Minden
 2604:8e80::10:18:112:0/127,US,LA,Shreveport
@@ -4390,7 +4398,7 @@
 2604:8e80::10:18:114:12/127,US,LA,Shreveport
 2604:8e80::10:18:240:13/128,US,LA,Fenton
 2604:8e80::10:18:240:43/128,US,LA,Breaux Bdg
-2604:8e80::10:18:240:87/128,US,LA,Shreveport
+2604:8e80::10:18:240:87/128,US,LA,Mansura
 2604:8e80::10:18:250:5/128,US,LA,Mamou
 2604:8e80::10:18:250:40/128,US,LA,De Ridder
 2604:8e80::10:18:250:44/128,US,LA,Sulphur
