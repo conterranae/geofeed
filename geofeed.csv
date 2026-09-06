@@ -1,4 +1,4 @@
-# Geofeed generated 2026-09-05 00:23:55 
+# Geofeed generated 2026-09-06 00:23:33 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2758,6 +2758,7 @@
 216.45.0.70/31,US,TX,Longview
 216.45.0.72/31,US,TX,Longview
 216.45.0.74/31,US,TX,Longview
+216.45.0.76/31,US,TX,Longview
 216.45.0.78/31,US,TX,Longview
 216.45.0.80/31,US,TX,Longview
 216.45.0.82/31,US,TX,Longview
