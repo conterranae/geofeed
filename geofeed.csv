@@ -1,4 +1,4 @@
-# Geofeed generated 2026-09-09 00:23:41 
+# Geofeed generated 2026-09-10 00:23:34 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1217,7 +1217,6 @@
 139.180.41.0/24,US,TX,Texarkana
 139.180.41.0/29,US,TX,Texarkana
 139.180.41.8/30,US,TX,Texarkana
-139.180.41.12/30,US,TX,Kilgore
 139.180.41.16/28,US,TX,Texarkana
 139.180.41.32/28,US,TX,Texarkana
 139.180.41.48/30,US,TX,Texarkana
@@ -1671,8 +1670,10 @@
 157.185.0.4/31,US,TX,Dallas
 157.185.0.6/31,US,TX,Dallas
 157.185.0.8/31,US,TX,Dallas
+157.185.0.10/31,US,TX,Dallas
 157.185.0.12/30,US,TX,Dallas
 157.185.0.16/31,US,TX,El Paso
+157.185.0.18/31,US,TX,Dallas
 157.185.0.24/29,US,TX,Dallas
 157.185.0.32/31,US,TX,Dallas
 157.185.0.34/31,US,TX,Dallas
@@ -1934,6 +1935,7 @@
 157.185.4.144/30,US,TX,Longview
 157.185.4.148/31,US,TX,Longview
 157.185.4.150/31,US,TX,Longview
+157.185.4.152/31,US,TX,Longview
 157.185.4.154/31,US,TX,Longview
 157.185.4.156/30,US,TX,Longview
 157.185.4.160/27,US,TX,Kilgore
@@ -1987,6 +1989,11 @@
 157.185.5.130/31,US,LA,Shreveport
 157.185.5.132/31,US,LA,Shreveport
 157.185.5.134/31,US,LA,Shreveport
+157.185.5.136/31,US,LA,Shreveport
+157.185.5.138/31,US,LA,Shreveport
+157.185.5.140/31,US,LA,Shreveport
+157.185.5.142/31,US,LA,Shreveport
+157.185.5.144/31,US,LA,Shreveport
 157.185.6.0/24,US,LA,Lafayette
 157.185.6.0/29,US,LA,Sulphur
 157.185.6.8/31,US,LA,Lafayette
@@ -2005,8 +2012,10 @@
 157.185.6.40/29,US,LA,Roanoke
 157.185.6.50/31,US,LA,Roanoke
 157.185.6.52/31,US,LA,Lafayette
+157.185.6.56/31,US,LA,Lafayette
 157.185.6.58/31,US,LA,Crowley
 157.185.6.60/31,US,LA,Crowley
+157.185.6.62/31,US,LA,Lafayette
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
@@ -2060,6 +2069,7 @@
 157.185.33.46/31,US,TX,El Paso
 157.185.33.48/31,US,TX,El Paso
 157.185.33.50/31,US,TX,El Paso
+157.185.33.52/31,US,TX,El Paso
 157.185.33.54/31,US,TX,El Paso
 157.185.33.56/31,US,TX,El Paso
 157.185.33.58/31,US,TX,El Paso
@@ -2097,8 +2107,6 @@
 157.185.34.8/29,US,TX,El Paso
 157.185.34.16/31,US,TX,El Paso
 157.185.34.18/31,US,TX,El Paso
-157.185.34.20/31,US,TX,El Paso
-157.185.34.22/31,US,TX,El Paso
 157.185.34.24/29,US,TX,El Paso
 157.185.34.40/29,US,TX,El Paso
 157.185.34.48/29,US,TX,El Paso
@@ -3674,7 +3682,6 @@
 216.45.22.64/28,US,TX,Dallas
 216.45.22.80/30,US,TX,Dallas
 216.45.22.84/31,US,TX,Dallas
-216.45.22.86/31,US,TX,Dallas
 216.45.22.88/31,US,TX,Dallas
 216.45.22.90/31,US,LA,Shreveport
 216.45.22.92/31,US,LA,New Iberia
@@ -3728,6 +3735,7 @@
 216.45.22.240/29,US,LA,Shreveport
 216.45.22.248/29,US,LA,Shreveport
 216.45.23.0/24,US,TX,Longview
+216.45.23.0/31,US,TX,Longview
 216.45.23.2/31,US,TX,Longview
 216.45.23.4/30,US,TX,Longview
 216.45.23.8/31,US,TX,Longview
@@ -3816,6 +3824,7 @@
 216.45.23.248/31,US,LA,Lafayette
 216.45.23.250/31,US,TX,Longview
 216.45.23.252/31,US,LA,Lafayette
+216.45.23.254/31,US,TX,Longview
 216.45.24.0/24,US,LA,Shreveport
 216.45.24.0/30,US,LA,Shreveport
 216.45.24.4/30,US,LA,Shreveport
