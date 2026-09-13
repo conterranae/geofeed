@@ -1,4 +1,4 @@
-# Geofeed generated 2026-09-12 00:23:37 
+# Geofeed generated 2026-09-13 00:23:38 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -880,7 +880,6 @@
 69.194.176.20/31,US,TX,Brownwood
 69.194.176.30/31,US,LA,Bunkie
 69.194.176.32/31,US,LA,Bunkie
-69.194.176.58/31,US,LA,Jeanerette
 69.194.176.90/31,US,LA,Morgancity
 69.194.176.92/31,US,LA,Morgancity
 69.194.176.94/31,US,LA,Batonrouge
@@ -4432,6 +4431,7 @@
 2604:8e80::10:18:13:2/127,US,LA,Roanoke
 2604:8e80::10:18:13:4/127,US,LA,Roanoke
 2604:8e80::10:18:15:8/127,US,LA,Shreveport
+2604:8e80::10:18:15:254/127,US,AL,Mobile
 2604:8e80::10:18:16:8/127,US,LA,Minden
 2604:8e80::10:18:20:0/127,US,LA,Opelousas
 2604:8e80::10:18:20:6/127,US,LA,Eunice
@@ -4460,6 +4460,7 @@
 2604:8e80::10:18:51:24/127,US,LA,Oakdale
 2604:8e80::10:18:52:6/127,US,LA,Fenton
 2604:8e80::10:18:62:2/127,US,LA,De Ridder
+2604:8e80::10:18:62:4/127,US,LA,Leesville
 2604:8e80::10:18:63:16/127,US,LA,St Landry
 2604:8e80::10:18:75:0/127,US,LA,Opelousas
 2604:8e80::10:18:75:2/127,US,LA,Eunice
@@ -4509,6 +4510,7 @@
 2604:8e80::10:18:253:76/128,US,LA,Shreveport
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
 2604:8e80::10:22:250:11/128,US,AL,Mobile
+2604:8e80::10:22:251:11/128,US,AL,Mobile
 2604:8e80::10:28:0:66/127,US,TX,Dallas
 2604:8e80::10:28:0:68/127,US,TX,Dallas
 2604:8e80::10:28:0:70/127,US,TX,Dallas
