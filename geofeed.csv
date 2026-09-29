@@ -1,4 +1,4 @@
-# Geofeed generated 2026-09-28 00:23:49 
+# Geofeed generated 2026-09-29 00:23:54 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1705,6 +1705,7 @@
 157.185.0.106/31,US,TX,Dallas
 157.185.0.108/31,US,TX,Dallas
 157.185.0.110/31,US,TX,Dallas
+157.185.0.112/31,US,TX,Dallas
 157.185.0.116/30,US,TX,Dallas
 157.185.0.120/29,US,TX,Dallas
 157.185.0.128/29,US,TX,Dallas
@@ -1712,6 +1713,8 @@
 157.185.0.138/31,US,TX,Dallas
 157.185.0.140/31,US,TX,Dallas
 157.185.0.142/31,US,TX,Dallas
+157.185.0.144/29,US,TX,Dallas
+157.185.0.152/29,US,TX,Dallas
 157.185.0.160/30,US,TX,Dallas
 157.185.0.164/31,US,LA,Shreveport
 157.185.0.166/31,US,LA,Shreveport
@@ -1989,6 +1992,7 @@
 157.185.5.48/29,US,LA,Shreveport
 157.185.5.56/29,US,LA,Shreveport
 157.185.5.72/31,US,LA,Shreveport
+157.185.5.74/31,US,LA,Shreveport
 157.185.5.76/31,US,LA,Shreveport
 157.185.5.78/31,US,LA,Shreveport
 157.185.5.80/31,US,LA,Shreveport
@@ -2037,9 +2041,11 @@
 157.185.5.184/29,US,LA,Shreveport
 157.185.5.196/31,US,LA,Shreveport
 157.185.5.198/31,US,LA,Shreveport
+157.185.5.200/31,US,LA,Shreveport
 157.185.5.204/31,US,LA,Shreveport
 157.185.5.206/31,US,LA,Shreveport
 157.185.5.208/31,US,LA,Shreveport
+157.185.5.210/31,US,LA,Shreveport
 157.185.5.212/31,US,LA,Shreveport
 157.185.5.214/31,US,LA,Shreveport
 157.185.5.216/29,US,LA,Shreveport
@@ -2063,7 +2069,7 @@
 157.185.6.34/31,US,LA,Lafayette
 157.185.6.36/31,US,LA,Lafayette
 157.185.6.38/31,US,LA,Eunice
-157.185.6.40/29,US,LA,Roanoke
+157.185.6.40/29,US,LA,Lafayette
 157.185.6.48/31,US,LA,Lafayette
 157.185.6.50/31,US,LA,Roanoke
 157.185.6.52/31,US,LA,Lafayette
@@ -2071,6 +2077,7 @@
 157.185.6.58/31,US,LA,Crowley
 157.185.6.60/31,US,LA,Crowley
 157.185.6.62/31,US,LA,Lafayette
+157.185.6.64/31,US,LA,Lafayette
 157.185.6.66/31,US,LA,Lafayette
 157.185.6.68/31,US,LA,Lafayette
 157.185.6.70/31,US,LA,Lafayette
@@ -2092,9 +2099,13 @@
 157.185.6.120/29,US,LA,Lafayette
 157.185.6.128/31,US,LA,Lafayette
 157.185.6.132/30,US,LA,Lafayette
+157.185.7.0/24,US,TX,Longview
+157.185.7.0/28,US,TX,Longview
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.32/31,US,NC,Charlotte
+157.185.32.36/31,US,NC,Charlotte
+157.185.32.38/31,US,NC,Charlotte
 157.185.32.40/30,US,NC,Charlotte
 157.185.32.48/29,US,NC,Charlotte
 157.185.32.56/29,US,NC,Charlotte
@@ -2200,6 +2211,7 @@
 157.185.34.40/29,US,TX,El Paso
 157.185.34.48/29,US,TX,El Paso
 157.185.34.60/31,US,TX,El Paso
+157.185.34.72/29,US,TX,El Paso
 157.185.34.80/29,US,TX,Vinton
 157.185.34.90/31,US,TX,El Paso
 157.185.34.92/31,US,TX,El Paso
@@ -2239,8 +2251,12 @@
 157.185.35.10/31,US,NC,Charlotte
 157.185.35.12/30,US,NC,Charlotte
 157.185.35.16/29,US,NC,Charlotte
+157.185.35.32/31,US,NC,Charlotte
+157.185.35.34/31,US,NC,Charlotte
 157.185.35.36/31,US,NC,Charlotte
 157.185.35.38/31,US,NC,Charlotte
+157.185.35.40/29,US,NC,Charlotte
+157.185.35.50/31,US,NC,Charlotte
 157.185.35.56/29,US,NC,Charlotte
 157.185.35.64/28,US,NC,Charlotte
 157.240.76.34/31,US,TX,Dallas
@@ -4653,8 +4669,6 @@
 2604:8e80::10:28:74:6/127,US,TX,Sanantonio
 2604:8e80::10:28:74:8/127,US,TX,Sanantonio
 2604:8e80::10:28:74:10/127,US,TX,Sanantonio
-2604:8e80::10:28:94:2/127,US,TX,Sanantonio
-2604:8e80::10:28:94:8/127,US,TX,Richmnrnbg
 2604:8e80::10:28:94:10/127,US,TX,Richmnrnbg
 2604:8e80::10:28:94:16/127,US,TX,Richmnrnbg
 2604:8e80::10:28:108:0/127,US,TX,Dallas
