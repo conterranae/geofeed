@@ -1,4 +1,4 @@
-# Geofeed generated 2026-10-06 00:24:03 
+# Geofeed generated 2026-10-07 00:24:03 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -579,7 +579,7 @@
 38.114.240.138/31,US,NC,Clayton
 38.114.240.142/31,US,NC,Clayton
 38.114.240.144/31,US,NC,Dothan
-38.114.240.146/31,US,NC,Kannapolis
+38.114.240.146/31,US,NC,Charlotte
 38.114.240.148/30,US,NC,Conover
 38.114.240.148/31,US,NC,Kannapolis
 38.114.240.152/31,US,NC,Charlotte
@@ -616,7 +616,7 @@
 38.114.241.132/31,US,NC,Southepins
 38.114.241.136/29,US,NC,Charlotte
 38.114.241.144/29,US,NC,Granitefls
-38.114.241.156/30,US,NC,Dunn
+38.114.241.156/30,US,NC,Charlotte
 38.114.241.160/29,US,NC,Charlotte
 38.114.241.168/31,US,NC,Charlotte
 38.114.241.170/31,US,NC,Southepins
@@ -1642,7 +1642,7 @@
 139.180.62.24/29,US,NC,Conover
 139.180.62.24/31,US,NC,Charlotte
 139.180.62.26/31,US,NC,Rockymount
-139.180.62.28/30,US,NC,Monroe
+139.180.62.28/30,US,NC,Charlotte
 139.180.62.32/28,US,NC,Farmville
 139.180.62.48/28,US,NC,Granitefls
 139.180.62.64/28,US,NC,Morganton
@@ -2129,14 +2129,22 @@
 157.185.6.160/31,US,LA,Lafayette
 157.185.6.164/30,US,LA,Lafayette
 157.185.6.168/31,US,LA,Lafayette
+157.185.6.174/31,US,LA,Lafayette
 157.185.6.176/29,US,LA,Lafayette
+157.185.6.184/31,US,LA,Lafayette
+157.185.6.186/31,US,LA,Lafayette
+157.185.6.188/31,US,LA,Lafayette
+157.185.6.192/30,US,LA,New Iberia
 157.185.7.0/24,US,TX,Longview
 157.185.7.0/28,US,TX,Longview
 157.185.7.16/31,US,TX,Longview
 157.185.8.0/24,US,LA,Shreveport
 157.185.8.2/31,US,LA,Shreveport
 157.185.8.4/31,US,LA,Shreveport
+157.185.8.6/31,US,LA,Shreveport
 157.185.8.8/31,US,LA,Shreveport
+157.185.8.10/31,US,LA,Shreveport
+157.185.8.12/31,US,LA,Shreveport
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.32/31,US,NC,Charlotte
@@ -2285,6 +2293,7 @@
 157.185.34.216/29,US,TX,El Paso
 157.185.34.224/31,US,TX,El Paso
 157.185.34.226/31,US,TX,El Paso
+157.185.34.228/31,US,NM,Gallup
 157.185.34.232/29,US,NM,Gallup
 157.185.35.0/24,US,NC,Charlotte
 157.185.35.0/29,US,NC,Charlotte
@@ -2659,6 +2668,7 @@
 208.77.168.24/29,US,NC,Morganton
 208.77.168.32/30,US,NC,Dunn
 208.77.168.36/31,US,NC,Charlotte
+208.77.168.38/31,US,NC,Dunn
 208.77.168.40/30,US,NC,Dunn
 208.77.168.46/31,US,NC,Granitefls
 208.77.168.48/28,US,NC,Charlotte
@@ -2738,7 +2748,7 @@
 208.77.171.32/31,US,NC,Granitefls
 208.77.171.36/30,US,NC,Morganton
 208.77.171.40/29,US,NC,Charlotte
-208.77.171.48/30,US,NC,Rockymount
+208.77.171.48/30,US,NC,Charlotte
 208.77.171.52/30,US,NC,Charlotte
 208.77.171.56/30,US,NC,Marion
 208.77.171.60/31,US,NC,Charlotte
@@ -3033,7 +3043,7 @@
 216.45.2.128/30,US,NC,Charlotte
 216.45.2.132/31,US,NC,Marion
 216.45.2.134/31,US,NC,Huntersvl
-216.45.2.136/31,US,NC,Huntersvl
+216.45.2.136/31,US,NC,Charlotte
 216.45.2.138/31,US,NC,Conover
 216.45.2.140/30,US,NC,Statesvl
 216.45.2.144/29,US,NC,Charlotte
@@ -3070,7 +3080,7 @@
 216.45.4.208/30,US,NC,Charlotte
 216.45.4.212/30,US,NC,Charlotte
 216.45.4.216/31,US,NC,Charlotte
-216.45.4.218/31,US,NC,Kannapolis
+216.45.4.218/31,US,NC,Charlotte
 216.45.4.220/31,US,NC,Granitefls
 216.45.4.222/31,US,NC,Charlotte
 216.45.4.224/29,US,NC,Kannapolis
@@ -3350,6 +3360,7 @@
 216.45.9.242/31,US,TX,Dallas
 216.45.9.248/29,US,,
 216.45.10.0/24,US,TX,El Paso
+216.45.10.14/31,US,TX,El Paso
 216.45.10.32/31,US,TX,El Paso
 216.45.10.34/31,US,TX,El Paso
 216.45.10.36/30,US,TX,El Paso
@@ -4586,6 +4597,8 @@
 216.45.31.234/31,US,TX,El Paso
 216.45.31.240/31,US,TX,El Paso
 216.45.31.242/31,US,TX,El Paso
+216.45.31.244/31,US,TX,El Paso
+216.45.31.246/31,US,TX,El Paso
 216.45.31.248/31,US,TX,El Paso
 216.45.31.250/31,US,TX,El Paso
 216.134.96.0/20,US,TX,Marshall
