@@ -1,4 +1,4 @@
-# Geofeed generated 2026-11-16 00:20:07 
+# Geofeed generated 2026-11-17 00:20:19 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -2495,6 +2495,7 @@
 157.185.35.148/31,US,NC,Charlotte
 157.185.35.150/31,US,NC,Charlotte
 157.185.35.152/31,US,NC,Charlotte
+157.185.35.176/31,US,NC,Charlotte
 157.185.37.0/29,US,TX,El Paso
 157.185.37.8/31,US,TX,El Paso
 157.185.37.10/31,US,TX,El Paso
@@ -4856,7 +4857,6 @@
 2604:8e80::10:18:13:2/127,US,LA,Roanoke
 2604:8e80::10:18:13:4/127,US,LA,Roanoke
 2604:8e80::10:18:15:8/127,US,LA,Shreveport
-2604:8e80::10:18:15:254/127,US,AL,Mobile
 2604:8e80::10:18:16:8/127,US,LA,Minden
 2604:8e80::10:18:20:0/127,US,LA,Opelousas
 2604:8e80::10:18:20:6/127,US,LA,Eunice
@@ -4930,7 +4930,6 @@
 2604:8e80::10:18:253:76/128,US,LA,Shreveport
 2604:8e80::10:18:255:76/128,US,LA,Shreveport
 2604:8e80::10:22:250:11/128,US,AL,Mobile
-2604:8e80::10:22:251:11/128,US,AL,Mobile
 2604:8e80::10:28:0:66/127,US,TX,Dallas
 2604:8e80::10:28:0:68/127,US,TX,Dallas
 2604:8e80::10:28:0:70/127,US,TX,Dallas
