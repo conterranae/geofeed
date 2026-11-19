@@ -1,4 +1,4 @@
-# Geofeed generated 2026-11-18 00:20:14 
+# Geofeed generated 2026-11-19 00:20:32 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1733,6 +1733,7 @@
 157.185.0.194/31,US,TX,Dallas
 157.185.0.198/31,US,TX,Dallas
 157.185.0.200/30,US,TX,Dallas
+157.185.0.204/31,US,TX,Dallas
 157.185.0.208/29,US,TX,Dallas
 157.185.0.216/29,US,TX,Dallas
 157.185.1.0/24,US,LA,Lafayette
@@ -2265,6 +2266,7 @@
 157.185.8.122/31,US,LA,Shreveport
 157.185.8.124/31,US,LA,Shreveport
 157.185.8.136/31,US,LA,Shreveport
+157.185.8.138/31,US,LA,Shreveport
 157.185.8.140/30,US,LA,Shreveport
 157.185.8.144/29,US,LA,Shreveport
 157.185.8.152/30,US,LA,Shreveport
@@ -2275,6 +2277,12 @@
 157.185.8.176/31,US,LA,Shreveport
 157.185.8.178/31,US,LA,Shreveport
 157.185.8.180/31,US,LA,Shreveport
+157.185.8.182/31,US,LA,Shreveport
+157.185.8.184/31,US,LA,Shreveport
+157.185.8.192/31,US,LA,Shreveport
+157.185.8.194/31,US,LA,Shreveport
+157.185.8.196/31,US,LA,Shreveport
+157.185.8.198/31,US,LA,Shreveport
 157.185.9.0/24,US,LA,Lafayette
 157.185.9.0/31,US,LA,Lafayette
 157.185.9.2/31,US,LA,Lafayette
@@ -2305,6 +2313,9 @@
 157.185.9.78/31,US,LA,Lafayette
 157.185.9.80/29,US,LA,Lafayette
 157.185.9.90/31,US,LA,Lafayette
+157.185.9.94/31,US,LA,Lafayette
+157.185.9.98/31,US,LA,Lafayette
+157.185.9.104/29,US,LA,Lafayette
 157.185.32.0/24,US,NC,Charlotte
 157.185.32.0/27,US,NC,Charlotte
 157.185.32.32/31,US,NC,Charlotte
@@ -2541,6 +2552,13 @@
 157.185.37.130/31,US,TX,El Paso
 157.185.37.132/31,US,TX,El Paso
 157.185.37.134/31,US,TX,El Paso
+157.185.37.136/31,US,TX,El Paso
+157.185.37.138/31,US,TX,El Paso
+157.185.37.140/31,US,TX,El Paso
+157.185.37.142/31,US,TX,El Paso
+157.185.37.148/31,US,TX,El Paso
+157.185.37.150/31,US,TX,El Paso
+157.185.37.152/31,US,TX,El Paso
 157.240.76.34/31,US,TX,Dallas
 163.77.144.190/31,US,TX,Dallas
 169.254.0.0/24,US,NC,Sanford
@@ -4894,7 +4912,6 @@
 2604:8e80::10:18:49:2/127,US,LA,Sulphur
 2604:8e80::10:18:51:24/127,US,LA,Oakdale
 2604:8e80::10:18:52:6/127,US,LA,Fenton
-2604:8e80::10:18:62:2/127,US,LA,De Ridder
 2604:8e80::10:18:62:4/127,US,LA,Leesville
 2604:8e80::10:18:63:16/127,US,LA,St Landry
 2604:8e80::10:18:75:0/127,US,LA,Opelousas
