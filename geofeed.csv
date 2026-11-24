@@ -1,4 +1,4 @@
-# Geofeed generated 2026-11-23 00:20:38 
+# Geofeed generated 2026-11-24 00:20:22 
 # prefix,country,region,city
 24.204.24.0/24,US,TX,Longview
 24.204.24.128/29,US,TX,Longview
@@ -1737,6 +1737,7 @@
 157.185.0.208/29,US,TX,Dallas
 157.185.0.216/29,US,TX,Dallas
 157.185.0.224/29,US,TX,Dallas
+157.185.0.232/31,US,TX,Dallas
 157.185.1.0/24,US,LA,Lafayette
 157.185.1.0/29,US,LA,Lafayette
 157.185.1.8/31,US,LA,Lafayette
@@ -2225,6 +2226,7 @@
 157.185.7.192/29,US,TX,Texarkana
 157.185.7.200/31,US,TX,Longview
 157.185.7.204/30,US,TX,Longview
+157.185.7.212/30,US,TX,Longview
 157.185.7.224/27,US,TX,Longview
 157.185.8.0/24,US,LA,Shreveport
 157.185.8.0/31,US,LA,Shreveport
@@ -2502,6 +2504,7 @@
 157.185.35.40/30,US,NC,Charlotte
 157.185.35.48/31,US,NC,Charlotte
 157.185.35.50/31,US,NC,Charlotte
+157.185.35.52/31,US,NC,Charlotte
 157.185.35.54/31,US,NC,Charlotte
 157.185.35.56/29,US,NC,Charlotte
 157.185.35.64/28,US,NC,Charlotte
@@ -2570,6 +2573,8 @@
 157.185.37.148/31,US,TX,El Paso
 157.185.37.150/31,US,TX,El Paso
 157.185.37.152/31,US,TX,El Paso
+157.185.37.156/31,US,TX,El Paso
+157.185.37.158/31,US,TX,El Paso
 157.185.37.160/29,US,TX,El Paso
 157.240.76.34/31,US,TX,Dallas
 163.77.144.190/31,US,TX,Dallas
